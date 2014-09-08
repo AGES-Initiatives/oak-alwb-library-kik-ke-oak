@@ -1,0 +1,10 @@
+A_Resource_Whose_Name = da.d1_kik_KE_oak 
+
+daDay.text = ""
+daCommemoration.text = ""
+
+daVE.OnTheEveningBefore = template.titles_kik_KE_oak.d.onSaturdayEvening
+
+daLI.GospelAlleluia.text = prayers_kik_KE_oak.Allilouia3.text 
+
+daLI.CommunionHymn.text = "" //for media
