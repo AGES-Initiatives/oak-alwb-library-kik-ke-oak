@@ -1,4 +1,4 @@
-A_Resource_Whose_Name = eu.lichrysbasil_kik_KE_oak 
+A_Resource_Whose_Name = eu.lichrysbasil_kik_KE_oak
 
 euLI.title = ""
 
@@ -15,7 +15,7 @@ euLI.Key0109.text = prayers_kik_KE_oak.enarxis02
 euLI.Key0110.text = prayers_kik_KE_oak.res04
 
 // Part 02 Great Litany - Antiphon 1
-euLI.Key0200.text = "" //.text and not .title for the sake of media
+euLI.Key0200.text = "" // .text and not .title for the sake of media
 euLI.Key0201.title = ""
 euLI.Key0201.text = ""
 
@@ -106,7 +106,7 @@ euLI.Key1124.text = ""
 
 // Part 12 Litany and Creed
 euLI.Key1200.title = ""
-euLI.Key1200.text = "" //for media
+euLI.Key1200.text = "" // for media
 euLI.Key1201.text = ""
 euLI.Key1202.title = ""
 euLI.Key1202.text = ""
@@ -114,7 +114,7 @@ euLI.Key1202.basil.text = ""
 euLI.Key1203.text = ""
 euLI.Key1204.text = ""
 euLI.Key1205.text = ""
-euLI.Key1206.text = "" //for media
+euLI.Key1206.text = "" // for media
 euLI.Key1207.text = ""
 euLI.Key1208.text = ""
 
@@ -134,8 +134,8 @@ euLI.Key1310.text = ""
 euLI.Key1311.text = ""
 euLI.Key1312.text = ""
 euLI.Key1312.basil.text = ""
-euLI.Key1313.text = "" 
-euLI.Key1313.basil.text = "" 
+euLI.Key1313.text = ""
+euLI.Key1313.basil.text = ""
 euLI.Key1314.text = ""
 euLI.Key1314.basil.text = ""
 euLI.Key1315.text = ""
@@ -147,14 +147,14 @@ euLI.Key1318.text = ""
 euLI.Key1319.text = ""
 euLI.Key1319.basil.text = ""
 euLI.Key1320.text = ""
-euLI.Key1321.text = "" 
-euLI.Key1321.basil.text = "" 
+euLI.Key1321.text = ""
+euLI.Key1321.basil.text = ""
 euLI.Key1322.text = ""
-euLI.Key1323.text = "" 
-euLI.Key1323.basil.text = "" 
+euLI.Key1323.text = ""
+euLI.Key1323.basil.text = ""
 euLI.Key1324.text = ""
-euLI.Key1325.text = "" 
-euLI.Key1325.basil.text = "" 
+euLI.Key1325.text = ""
+euLI.Key1325.basil.text = ""
 euLI.Key1326.text = ""
 euLI.Key1326.basil.text = ""
 euLI.Key1327.text = ""
@@ -182,7 +182,7 @@ euLI.Key1403.text = ""
 euLI.Key1404.text = ""
 euLI.Key1405.text = ""
 euLI.Key1405.basil.text = ""
-euLI.Key1406.text = ""
+euLI.Key1406.text = "Na ututue agiriru, ui munene twina uumiriru, hatari ituiro ria uuru, tutegwitigira twina  ngoro imwe theru, gugwita ithe witu wee Ngai wa iguru, tukiugaga."
 euLI.Key1407.text = ""
 euLI.Key1407.basil.text = ""
 euLI.Key1408.text = prayers_kik_KE_oak.exc07a
@@ -214,21 +214,21 @@ euLI.Key1519.text = ""
 euLI.Key1520.text = ""
 euLI.Key1521.text = ho.s03_kik_KE_oak.hoMA.SunPostGospel.text
 euLI.Key1522.text = he.h.m1_kik_KE_oak.FotizouFotizou.text
-euLI.Key1523.text = pe.d00P_kik_KE_oak.pePA.Ode91.text 
-euLI.Key1524.text = pe.d00P_kik_KE_oak.pePA.Ode92.text 
+euLI.Key1523.text = pe.d00P_kik_KE_oak.pePA.Ode91.text
+euLI.Key1524.text = pe.d00P_kik_KE_oak.pePA.Ode92.text
 euLI.Key1525.text = ""
 euLI.Key1526.text = ""
 euLI.Key1527.title = ""
 euLI.Key1527.text = ""
 euLI.Key1528.text = ""
 euLI.Key1529.text = ""
-euLI.Key1530.text = "" //find this hymn in Pentecost
+euLI.Key1530.text = "" // find this hymn in Pentecost
 euLI.Key1531.text = ""
 
 // Part 16 After Communion 
 euLI.Key1601.text = ""
 euLI.Key1602.text = ""
-euLI.Key1603.text = "" 
+euLI.Key1603.text = ""
 euLI.Key1604.title = ""
 euLI.Key1604.text = ""
 euLI.Key1605.text = ""
@@ -243,7 +243,7 @@ euLI.Key1701.text = ""
 euLI.Key1702.title = ""
 euLI.Key1702.text = ""
 euLI.Key1702.basil.text = ""
-euLI.Key1703.text = "" //for media
+euLI.Key1703.text = "" // for media
 euLI.Key1704.text = ""
 euLI.Key1704.basil.text = ""
 euLI.Key1705.text = prayers_kik_KE_oak.pet37

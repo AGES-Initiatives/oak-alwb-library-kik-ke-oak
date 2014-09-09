@@ -8,7 +8,7 @@ KaiNyn = ""
 
 Allilouia1 = ""
 
-Allilouia3.text = ""
+Allilouia3.text = "Alleluia. Alleluia. Alleluia."
 
 Allilouia3Doxa.text = ""
 
@@ -20,7 +20,7 @@ DefteProskinisomen3 = ""
 
 DiEfchonDespotou.text = ""
 
-DiEfchonPateron.text = ""
+DiEfchonPateron.text = "Kuhitukira mahoya-ini ma Baba Atheru oothe, tuiguire tha ithui ui Mwathani Jesu Kristo Ngai witu na utuhonokie ithui."
 
 DoxaPatri.text = ""
 
@@ -30,7 +30,7 @@ DoxaSoiChriste2 = ""
 
 DoxaSoiKyrie = ""
 
-DoxaSoiKyrieP = ""
+DoxaSoiKyrieP = "(Urokumio wee Mwathani, Urokumio wee.)"
 
 DoxaSoiOTheos1 = ""
 
@@ -110,7 +110,7 @@ PaschaDialog4.text = ""
 PaschaDialog5.text = ""
 PaschaDialog6.text = ""
 
-PaterImon.text = ""
+PaterImon.text = "Ithe witu wi iguru, riitwa riaku riamurwo, uthamaki waku uuke uria wendete wee, niwikagwo guku thi, ota uria wikagwo kuu iguru, Tuhe umuthi irio ciitu cia gutuigana  na utuohere mawihia maitu ta uria ithui tuohagira aria mawihagia na ndugatutware magerio-ini no kuhonokia utuhonokagie kuuma uuru-ini."
 
 Pistevo.text = ""
 
@@ -146,7 +146,7 @@ pet00 = "Rekei tuhoe Mwathani."
 
 pet01 = "Thiini wa thayu rekei tumuhoe Mwathani." // Great Litany
 
-pet02 = " Niundu wa thayu kuma na niundu wa uhonokio wa mioyo itu, Rekei tuhoe Mwathani."
+pet02 = "Niundu wa thayu kuma na niundu wa uhonokio wa mioyo itu, Rekei tuhoe Mwathani."
 
 pet03 = "Niundu wa thayu wa thi yoothe na niundu wa urugamiriri mwega wa Kanitha theru cia Ngai, na ucokaniriria wa andu oothe rekei tuhoe Mwathani."
 
@@ -164,7 +164,7 @@ pet06 = "Niundu wa Mumbicobu witu (Ritwa) ahoreri etikia, na dikoni aria me thi-
 
 pet06a = "Wa" // supplement with client specific rank and name
 
-pet06b = "na  atongoria na ndikoni aria methi-inii wa Kristo, na wa Ahunjia oothe na andu oothe. Rekei tuhoe Mwathani."
+pet06b = "atungatiri na aramati airtu wira-ini wa Kristo, aria amure na andu oothe. Rekei tuhoe Mwathani."
 
 pet07L = ""
 
@@ -192,7 +192,7 @@ pet15 = "" // Ektenia
 
 pet16 = ""
 
-pet17 = ""
+pet17 = "Tuigure tha ui Ngai kuringana na uguo that ciaku ciingihite. Nitwakuhoya utuiguire tha."
 
 pet18 = ""
 
@@ -208,7 +208,7 @@ pet21a = ""
 
 pet21b = "" // for baptism
 
-pet21c = "" // for wedding
+pet21c = "Ringi nitwakuhoya niundu wa wega , muoyo, thayu, ugima na uhonokio, ugitiri wa ndungata ciaku (Maritwa) nitwaguthaitha tuthikiririe na umaiguire tha." // for wedding
 
 pet21d = "" // for unction
 
@@ -512,13 +512,13 @@ res01p = "(Mwathani igua tha.)"
 
 res02p = ""
 
-res03p = "Kuri wee Mwathani."
+res03p = "(Kuri wee Mwathani.)"
 
 res04p = "(Ameni.)"
 
 res05p = "(O hamwe na muoyo waku.)"
 
-res06p = ""
+res06p = "Mwathani igua tha, Mwathani igua tha, Mwathani igua tha."
 
 res07p = ""
 
@@ -542,11 +542,11 @@ exc01 = "Niundu kuri wee tugukonii gugukumia, gugutia, na gukugooca. Kuri Ithe n
 
 exc01a = "Niundu kuri wee tugukonii gugukumia, gugutia na gukugooca, kuri Ithe na Muriu na Muoyo Mutheru. Riu na hindi cioothe na kinya tene na tene."
 
-exc02 = ""
+exc02 = "Niundu wee wi Ngai wi tha nyingi, na wendo muingi, na kuri we nitugukuhe ukumio, kuri Ithe na Muriu na Muoyo Mutheru riu na hindi ciothe na kinya tene na tene. "
 
 exc03 = ""
 
-exc04 = ""
+exc04 = "Niundu Riitwa riaku ni irathime na gukumio ni uthamaki waku wa Ithe na Muriu na Muoyo Mutheru. Riu na hindi cioothe na kinya, tene na tene."
 
 exc05 = ""
 
@@ -570,7 +570,7 @@ exc09 = ""
 
 exc10 = ""
 
-exc11 = "Niundu wee wi Ngai wi that na uiyurwo ni wendo. Na kuri wee nitugukuhe ukumio kuri Ithe na Muriu na Muoyo Mutheru, riu na hindi cioothe na kinya tene na tene."
+exc11 = "Niundu wee wi Ngai wi tha na uiyurwo ni wendo. Na kuri wee nitugukuhe ukumio kuri Ithe na Muriu na Muoyo Mutheru, riu na hindi cioothe na kinya tene na tene."
 
 exc11a = ""
 
@@ -586,13 +586,13 @@ exc16 = ""
 
 exc16a = ""
 
-exc17 = ""
+exc17 = "Uugi."
 
-exc18 = ""
+exc18 = "Rugamai thuthikiririe."
 
-exc19 = ""
+exc19 = "Rekei tuthikiririe."
 
-exc20 = ""
+exc20 = "Niundu Uthamaki ni waku ona hinya na kugoocwo, gwa Ithe, na Muriu na Muoyo Mutheru riu na tene na kinya tene na tene."
 
 exc22 = ""
 
@@ -612,15 +612,15 @@ exc29 = ""
 
 epi01a = "" // leave blank in Greek
 
-epi01b = ""
+epi01b = "Mathomo"
 
 epi02 = ""
 
 gos01 = ""
 
-gos02 = ""
+gos02 = "Rekei tuigue uhoro Mwega wa Evanjelio Theru."
 
-gos03a = ""
+gos03a = "Tuguthoma uhoro Mwega uria wandikirwo ni"
 
 gos03b = ""
 
