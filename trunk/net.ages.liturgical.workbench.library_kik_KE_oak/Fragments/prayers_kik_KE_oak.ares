@@ -136,7 +136,7 @@ fePresveiaisTonAgionKaiSosonMe = ""
 
 fbPresveiaisKyrieTonAgion = ""
 
-enarxis01 = "Kurathimwo ni Ngai witu hindi ciothe kuma riu Kinya tene na tene."
+enarxis01 = "Kurathimwo ni Ngai witu hindi ciothe, kuma riu kinya tene na tene."
 
 enarxis02 = "Kurathimwo ni Uthamaki wa Ithe witu na Muriu na Muoyo Mutheru kuma riu na hindi ciothe na kinya tene na tene."
 
@@ -148,9 +148,9 @@ pet01 = "Thiini wa thayu rekei tumuhoe Mwathani." // Great Litany
 
 pet02 = "Niundu wa thayu kuma na niundu wa uhonokio wa mioyo itu, Rekei tuhoe Mwathani."
 
-pet03 = "Niundu wa thayu wa thi yoothe na niundu wa urugamiriri mwega wa Kanitha theru cia Ngai, na ucokaniriria wa andu oothe rekei tuhoe Mwathani."
+pet03 = "Niundu wa thayu wa thi yoothe na niundu wa wihandi mwega wa Kanitha theru cia Ngai, na ucokaniriria wa andu oothe, rekei tuhoe Mwathani."
 
-pet04 = "Niundu wa Nyumba ino theru na niundu wa aria matonyete thiini wayo mena witikio, winyihia, na watigiri wa Ngai, rekei tuhoe Mwathani."
+pet04 = "Niundu wa Nyumba ino theru na niundu wa aria matonyaga thiini wayo mena witikio, winyihia, na watigiri wa Ngai, rekei tuhoe Mwathani."
 
 pet04alt1.title = ""
 pet04alt1 = ""
@@ -160,7 +160,7 @@ pet04alt2 = ""
 
 pet05 = ""
 
-pet06 = "Niundu wa Mumbicobu witu (Ritwa) ahoreri etikia, na dikoni aria me thi-inii wa Kristo. Na niundu wa Ahunjia na andu oothe, rekei tuhoe Mwathani."
+pet06 = "Niundu wa Mumbicobu witu (Ritwa) arathimithia na aramati aitu thiinii wa Kristo, aria aamure na andu oothe, rekei tuhoe Mwathani."
 
 pet06a = "Wa" // supplement with client specific rank and name
 
