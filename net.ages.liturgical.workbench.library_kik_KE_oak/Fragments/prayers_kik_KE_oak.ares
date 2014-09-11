@@ -146,7 +146,7 @@ pet00 = "Rekei tuhoe Mwathani."
 
 pet01 = "Thiini wa thayu rekei tumuhoe Mwathani." // Great Litany
 
-pet02 = "Niundu wa thayu kuma na niundu wa uhonokio wa mioyo itu, Rekei tuhoe Mwathani."
+pet02 = "Niundu wa thayu kuma na niundu wa uhonokio wa mioyo itu, rekei tuhoe Mwathani."
 
 pet03 = "Niundu wa thayu wa thi yoothe na niundu wa wihandi mwega wa Kanitha theru cia Ngai, na ucokaniriria wa andu oothe, rekei tuhoe Mwathani."
 
@@ -180,11 +180,11 @@ pet09 = ""
 
 pet10 = ""
 
-pet11 = "NIundu wa guturuta mathina-ini moothe, marakara, mogwati, na marakara. Rekei tuhoe Mwathani."
+pet11 = "Niundu wa gutukuura kuuma mathina-ini moothe, marakara, mogwati, na mabata, rekei tuhoe Mwathani."
 
-pet12 = "Tuteithie, tuhonokie, tuiguire ithui Ngai hamwe na wega waku. Rekei tuhoe Mwathani"
+pet12 = "Tuteithie, tuhonokie, tuiguire tha na utugitire ithui wee Ngai kuhitukira wega-ini waku."
 
-pet13 = "Turirikane Maitu Mutheru, Murathime na mukumie Muiritu Nyina wa Ngai na atuuire e Mutheru Maria hamwe na Atheru oothe, Rekei twiyathe ithui ena mundu na uria ungi na mioyo itu yoothe, Kuri Kristo Ngai witu."
+pet13 = "Turirikane Muciari wa Ngai Mutheru, Murathime na mukumie, Muiritu muthingu na a'tuire ee mutheru Maria, hamwe na Atheru oothe, Rekei twirute ithui ene, mundu na uria ungi na mioyo itu yoothe, Kuri Kristo Ngai witu."
 
 pet14 = "" // Short Litany
 
@@ -240,7 +240,7 @@ pet30 = ""
 
 pet31 = "Thayu urogia na inyui oothe."
 
-pet32 = "Rekei tuinamie mitwe iitu mbere ya Mwathani."
+pet32 = "Rekei tuinamie mitwe iitu kuri Mwathani."
 
 pet33 = "" // Lity
 
@@ -414,19 +414,19 @@ petWater15 = ""
 
 petWater16 = ""
 
-petWed01 = "Niundu wa ndungata ici cia Ngai (Ritwa ria Muhiki na Muhikania) aria riu mekuhikania, na niundu wa kuhonokio kwao. Rekei tuhoe Mwathani."
+petWed01 = "Niundu wa ndungata ici cia Ngai (Ritwa ria Muhiki na Muhikania) aria riu mekuhikania, na niundu wa kuhonokio kwao, rekei tuhoe Mwathani."
 
 petWed02 = ""
 
-petWed03 = "Niundu wa guikurukirio wega waku na thayu na wendo na uteithio. Rekei tuhoe Mwathani."
+petWed03 = "Niundu wa guikurukirwo ni wendo mukindiriku na wi thayu, na uteithio wa Ngai, rekei tuhoe Mwathani."
 
-petWed04 = "Niundu wa kirathimo kia witikio wao. Rekei tuhoe Mwathani. "
+petWed04 = "Niundu wa kugitirwo na kurathimwo na uiguano wa meciria na witikio wa ma, rekei tuhoe Mwathani. "
 
 petWed05 = ""
 
-petWed06 = "Niundu wa kugitira mioyo yao hatari na thina. Rekei tuhoe Mwathani."
+petWed06 = "Niundu wa kugitirwo na muturire mukinyaniru na utari ucuuke, rekei tuhoe Mwathani."
 
-petWed07 = "Na nigetha Mwathani witu umahe , kirathimo gia kuhikania kwao gutheru. Rekei tuhoe Mwathani."
+petWed07 = "Na nigetha Mwathani Ngai witu amahe uhiki wa gitiyo na kihiko githeru, rekei tuhoe Mwathani."
 
 petWed08 = "Niundu wa ndungata ici cia Ngai (Maritwa) aria riu mekunyitanio, eri hamwe thi-inii wa uhikania, uyu wao, Na niundu wa kuhonokio kwao, rekei tuhoe Mwathani."
 
@@ -538,9 +538,9 @@ res15p = ""
 
 res16p = ""
 
-exc01 = "Niundu kuri wee tugukonii gugukumia, gugutia, na gukugooca. Kuri Ithe na Muriu na Muoyo Mutheru riu na hindi ciothe na kinya tene na tene. "
+exc01 = "Niundu gutiyo, gukimio na kugoocwo ciothe ni ciaku, Ithe na Muriu na Muoyo Mutheru riu na hindi ciothe na kinya tene na tene. "
 
-exc01a = "Niundu kuri wee tugukonii gugukumia, gugutia na gukugooca, kuri Ithe na Muriu na Muoyo Mutheru. Riu na hindi cioothe na kinya tene na tene."
+exc01a = "Niundu ukumio woothe ni waku, na gitiyo na kuinamirirwo, kuri Ithe na Muriu na Muoyo Mutheru. Riu na hindi cioothe na kinya tene na tene."
 
 exc02 = "Niundu wee wi Ngai wi tha nyingi, na wendo muingi, na kuri we nitugukuhe ukumio, kuri Ithe na Muriu na Muoyo Mutheru riu na hindi ciothe na kinya tene na tene. "
 
@@ -570,7 +570,7 @@ exc09 = ""
 
 exc10 = ""
 
-exc11 = "Niundu wee wi Ngai wi tha na uiyurwo ni wendo. Na kuri wee nitugukuhe ukumio kuri Ithe na Muriu na Muoyo Mutheru, riu na hindi cioothe na kinya tene na tene."
+exc11 = "Niundu wee wi Ngai wi tha na kuri wee nitugukuhe ukumio, kuri Ithe na Muriu na Muoyo Mutheru, riu na hindi cioothe na kinya tene na tene."
 
 exc11a = ""
 
