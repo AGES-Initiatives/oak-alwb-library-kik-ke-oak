@@ -22,7 +22,7 @@ DiEfchonDespotou.text = ""
 
 DiEfchonPateron.text = "Kuhitukira mahoya-ini ma Baba Atheru oothe, tuiguire tha ithui ui Mwathani Jesu Kristo Ngai witu na utuhonokie ithui."
 
-DoxaPatri.text = ""
+DoxaPatri.text = "Gũkumio kũrogia kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru."
 
 DoxaSoiChriste1 = ""
 
@@ -52,11 +52,11 @@ EvlogoumenPatera.text = ""
 
 IElpisImonKyrie = ""
 
-KaiNynKaiAei.text = ""
+KaiNynKaiAei.text = "Na rĩu na tene, na kinya tene na tene. Amen."
 
 Kelefson = ""
 
-KelefsonDespota = ""
+KelefsonDespota = "Mũnene, athana."
 
 
 OTheosOiktirisai.text = ""
@@ -138,19 +138,19 @@ fbPresveiaisKyrieTonAgion = ""
 
 enarxis01 = "Kurathimwo ni Ngai witu hindi ciothe, kuma riu kinya tene na tene."
 
-enarxis02 = "Kurathimwo ni Uthamaki wa Ithe witu na Muriu na Muoyo Mutheru kuma riu na hindi ciothe na kinya tene na tene."
+enarxis02 = "Kũrathimwo ni ũthamaki wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
 enarxis03 = ""
 
-pet00 = "Rekei tuhoe Mwathani."
+pet00 = "Rekei tũhoe Mwathani."
 
-pet01 = "Thiini wa thayu rekei tumuhoe Mwathani." // Great Litany
+pet01 = "Twĩna thayũ, rekei tũhoe Mwathani." // Great Litany
 
-pet02 = "Niundu wa thayu kuma na niundu wa uhonokio wa mioyo itu, rekei tuhoe Mwathani."
+pet02 = "Nĩ ũndũ wa thayũ wa kuuma igũrũ na ũhonokio wa mĩoyo iitũ, rekei tũhoe Mwathani."
 
-pet03 = "Niundu wa thayu wa thi yoothe na niundu wa wihandi mwega wa Kanitha theru cia Ngai, na ucokaniriria wa andu oothe, rekei tuhoe Mwathani."
+pet03 = "Nĩ ũndũ wa thayũ wa thĩ yoothe, na nĩ ũndũ wa wĩhandi mwega wa Makanitha matheru ma Ngai, na nĩ ũndũ wocokanĩrĩria wa andũ oothe, rekei tũhoe Mwathani."
 
-pet04 = "Niundu wa Nyumba ino theru na niundu wa aria matonyaga thiini wayo mena witikio, winyihia, na watigiri wa Ngai, rekei tuhoe Mwathani."
+pet04 = "Nĩ ũndũ wa nyũmba ĩno theru, na nĩ ũndũ wa arĩa matonyaga yo mena wĩtĩkio, gĩtĩyo na wĩtigĩri wa Ngai, rekei tũhoe Mwathani."
 
 pet04alt1.title = ""
 pet04alt1 = ""
@@ -160,7 +160,7 @@ pet04alt2 = ""
 
 pet05 = ""
 
-pet06 = "Niundu wa Mumbicobu witu (Ritwa) arathimithia na aramati aitu thiinii wa Kristo, aria aamure na andu oothe, rekei tuhoe Mwathani."
+pet06 = "Nĩ ũndũ wa Mũmbicobu witũ mũnene (rĩĩtwa), o na arathimithia na aramati aitũ wira-inĩ wa Kristo, na arĩa aamũre, na andũ oothe, rekei tũhoe Mwathani."
 
 pet06a = "Wa" // supplement with client specific rank and name
 
@@ -168,25 +168,25 @@ pet06b = "atungatiri na aramati airtu wira-ini wa Kristo, aria amure na andu oot
 
 pet07L = ""
 
-pet07S = ""
+pet07S = "Nĩ ũndũ wa Bũrũri ũyũ witũ, na mũthamaki (rĩĩtwa) na atongoria aguo, na mbũtũ ciitũ cia ita, cia maĩ-inĩ, o na cia rĩera-inĩ, na cia thĩ nyũmũ, rekei tũhoe Mwathani."
 
 pet07Sa = ""
 
 pet08 = ""
 
-pet08alt = ""
+pet08alt = "Nĩ ũndũ wa itũũra rĩrĩ, na matũũra marĩa mangĩ moothe, na mabũrũri moothe, na nĩ ũndũ wa arĩa metĩkĩtie matũũraga thĩ-inĩ wamo, rekei tũhoe Mwathani."
 
-pet09 = ""
+pet09 = "Nĩ ũndũ wa imera iria njega, na nĩ ũndũ wa bũthi na thayũ wa mahinda moothe, rekei tũhoe Mwathani."
 
-pet10 = ""
+pet10 = "Nĩ ũndũ wa arĩa maragerera thĩ nyũmũ kana maĩ-inĩ, kana rĩera-inĩ, na nĩ ũndũ wa arĩa arũaru, nĩ ũndũ wa arĩa marathĩnĩka, nĩ ũndũ wa arĩa matahĩtwo, na nĩ ũndũ wa kũhonokio kwao, rekei tũhoe Mwathani."
 
-pet11 = "Niundu wa gutukuura kuuma mathina-ini moothe, marakara, mogwati, na mabata, rekei tuhoe Mwathani."
+pet11 = "Nĩ ũndũ wa gũtũhonokia kuuma mathĩna-inĩ moothe, marakara, mogwati na mabata, rekei tũhoe Mwathani."
 
-pet12 = "Tuteithie, tuhonokie, tuiguire tha na utugitire ithui wee Ngai kuhitukira wega-ini waku."
+pet12 = "Tũteithie, tũhonokie, tũiguĩre tha na ũtũgitĩre ithuĩ, wee Ngai, kũhĩtũkĩra ũtugi-inĩ waku."
 
-pet13 = "Turirikane Muciari wa Ngai Mutheru, Murathime na mukumie, Muiritu muthingu na a'tuire ee mutheru Maria, hamwe na Atheru oothe, Rekei twirute ithui ene, mundu na uria ungi na mioyo itu yoothe, Kuri Kristo Ngai witu."
+pet13 = "Tũririkane Mũciari wa Ngai (Theotokos), mũtheru mũrathime na mũkumie Mũirĩtu mũthingu na atũire e Mũtheru Maria, hamwe na Atheru oothe, rekei twĩrutĩre ithuĩ, o mũndũ na ũrĩa, na mĩoyo iitũ yoothe, kũrĩ Kristo Ngai witũ."
 
-pet14 = "" // Short Litany
+pet14 = "Rĩngĩ na rĩngĩ thĩ-inĩ wa thayũ, rekei tũhoe Mwathani." // Short Litany
 
 pet15 = "" // Ektenia
 
@@ -478,13 +478,13 @@ sup15 = ""
 
 sup99 = ""
 
-res01 = ""
+res01 = "Mwathani, igua tha."
 
 res02 = ""
 
-res03 = ""
+res03 = "Kũrĩ wee, Mwathani."
 
-res04 = ""
+res04 = "Amen."
 
 res05 = ""
 
@@ -492,7 +492,7 @@ res06 = ""
 
 res07 = ""
 
-res08 = ""
+res08 = "Mũnene, rathima."
 
 res09 = ""
 
@@ -538,21 +538,21 @@ res15p = ""
 
 res16p = ""
 
-exc01 = "Niundu gutiyo, gukimio na kugoocwo ciothe ni ciaku, Ithe na Muriu na Muoyo Mutheru riu na hindi ciothe na kinya tene na tene. "
+exc01 = "Nĩ ũndũ ũkumio wĩ kũrĩ Wee, na gũtĩyo, na kũgoocwo, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
 exc01a = "Niundu ukumio woothe ni waku, na gitiyo na kuinamirirwo, kuri Ithe na Muriu na Muoyo Mutheru. Riu na hindi cioothe na kinya tene na tene."
 
-exc02 = "Niundu wee wi Ngai wi tha nyingi, na wendo muingi, na kuri we nitugukuhe ukumio, kuri Ithe na Muriu na Muoyo Mutheru riu na hindi ciothe na kinya tene na tene. "
+exc02 = "Tondũ hinya nĩ waku, na ũthamaki, na ũhoti, na ũkumio, wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
-exc03 = ""
+exc03 = "Tondũ wĩ Ngai mwega na muuma-andũ, nawe nĩtwakũhee ũkumio, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
 exc04 = "Niundu Riitwa riaku ni irathime na gukumio ni uthamaki waku wa Ithe na Muriu na Muoyo Mutheru. Riu na hindi cioothe na kinya, tene na tene."
 
 exc05 = ""
 
-exc05a = "" // split exclamation for Trisagios Hymn at Liturgy
+exc05a = "Tondũ wee Ngai witũ wĩ mũtheru, na wee nĩtũgũkũhe ũkumio, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene," // split exclamation for Trisagios Hymn at Liturgy
 
-exc05b = ""
+exc05b = "na kinya tene na tene."
 
 exc06 = ""
 
@@ -586,11 +586,11 @@ exc16 = ""
 
 exc16a = ""
 
-exc17 = "Uugi."
+exc17 = "Ũũgĩ."
 
-exc18 = "Rugamai thuthikiririe."
+exc18 = "Rũgamai, tũthikĩrĩrie."
 
-exc19 = "Rekei tuthikiririe."
+exc19 = "Rekei tũthikĩrĩrie."
 
 exc20 = "Niundu Uthamaki ni waku ona hinya na kugoocwo, gwa Ithe, na Muriu na Muoyo Mutheru riu na tene na kinya tene na tene."
 

@@ -17,28 +17,28 @@ euLI.Key0110.text = prayers_kik_KE_oak.res04
 // Part 02 Great Litany - Antiphon 1
 euLI.Key0200.text = "" // .text and not .title for the sake of media
 euLI.Key0201.title = ""
-euLI.Key0201.text = ""
+euLI.Key0201.text = "Wee Mwathani Ngai witũ, wĩ hinya ũtangĩgerekanĩka, na ũkumio ũtangĩmenyeka, na tha itangĩtarĩka, na wendi wa ũmũndũ ũtangĩgweteka; ũrĩa wĩ Mũnene, nĩ ũndũ wa ũtugi waku, tũrore ithuĩ na nyũmba ĩno theru, na ũtũiguĩre tha, ithuĩ hamwe na arĩa marahoya ũtonga wa tha ciaku na ũtugi. "
 
 // Part 03 Antiphon 2
 euLI.Key0301.title = ""
-euLI.Key0301.text = ""
+euLI.Key0301.text = "Mwathani, Ngai witũ, honokia kĩrĩndĩ gĩaku na ũrathime igai rĩrĩ rĩaku; na ũgitĩre ũingĩ wa Kanitha yaku; na ũtherie arĩa mendete ũthaka wa nyũmba yaku; mahe ũkumio, kũhĩtũkĩra hinya-inĩ wa ũngai waku, na ndũgatũtiganĩrie ithuĩ, arĩa tũigĩte mwĩhoko witũ harĩ wee."
 
 // Part 04 Antiphon 3 
 euLI.Key0401.title = ""
-euLI.Key0401.text = ""
+euLI.Key0401.text = "Wee ũrĩa ũtũhotithĩtie tũhoe twĩna wĩtĩkio ũmwe mahoya maya mangwatanĩro; wee ũrĩa weranĩire atĩ, hĩndĩ ĩrĩa andũ erĩ kana atatũ monganĩte nĩ ũndũ wa rĩĩtwa rĩaku, nĩũkamahee maũndũ marĩa megũkũhoya; tũhingĩrie rĩu, ũi Mwathani, wendi wa mahoya ma ndungata ciaku marĩa matwagĩrĩire ithuĩ, na ũtũhe ũũgĩ wa ũũma waku, thĩ-inĩ wa thĩ ĩno, na muoyo ũtagathira wa hĩndĩ ĩrĩa ĩgoka."
 
 // Part 05 Small Entrance
-euLI.Key0501.text = ""
-euLI.Key0502.text = ""
-euLI.Key0503.text = ""
+euLI.Key0501.text = "Ũi Mũnene, Mwathani Ngai witũ, wee wekĩrire ikundi cia mbũtũ cia matũ-inĩ na thigari cia Araika, na anene a Araika, arĩa magũtungatagĩra magĩkũgoocaga, ĩtĩkĩra kũingĩra gwitũ gũkorũo kwĩ hamwe na kũingĩra kwa Araika atheru magwatanĩire mahoya na makumie wega waku me hamwe na ithuĩ."
+euLI.Key0502.text = "Mũnene, rathima kũingĩra gũtheru."
+euLI.Key0503.text = "Kũrathimwo nĩ rĩingĩrĩro rĩa gũthiĩ ũtheru-inĩ waku, hĩndĩ ciothe, rĩu na tene, na kinya tene na tene. Amen."
  
 // Part 06 Trisagios Hymn 
-euLI.Key0601.text = ""
-euLI.Key0602.text = ""
+euLI.Key0601.text = "Ũi Ngai mũtheru, ũrĩa ũhurũkaga gatagatĩ-inĩ ka atheru, na wee ũkumagio nĩ araika Aserafi magĩkũinagĩra Mũtheru, Mũtheru, Mũtheru, na ũgoocagwo nĩ Akerubi, na ũinamagĩrĩrũo nĩ mahinya moothe ma igũrũ; wee wekĩrire indo ciothe hatarĩ na kĩndũ na ikĩgĩa; wee wombire mũndũ na mũhianĩre waku na ahaanane nawe, na ũkĩmũgemia na maũndũ moothe; wee ũheanaga ũũgĩ na ũmenyo kũrĩ ũrĩa ũragia, na wee ũtaregaga mwĩhia o tiga nĩ watwĩtĩkĩrie kwĩrira nĩ ũndũ wa ũhonokio witũ; wee ũtũmĩte ithuĩ ndungata ciaku itarĩ bata, tũrũgame mbere ya ũkumio wa kĩgongona gĩaku gĩtheru, nĩ getha tũgũkumie ũrĩa kwagĩrĩire, na tũkũinamĩrĩre; ĩtĩkĩra, wee Mũnene, kuuma tũnua-inĩ twitũ, ithuĩ ehia, tũgwĩte, Mũtheru, Mũtheru, Mũtheru, na ũtũceerere na wega waku. Tũohere mehia maitũ marĩa twĩkaga tũkĩendaga na tũtekwenda; theria ngoro ciitũ na mĩĩrĩ iitũ, na wĩtĩkĩre tũkũgooce wee, twĩna ũtheru wa ngoro, matukũ moothe ma muoyo witũ; kũhĩtũkĩra mahoya-inĩ ma Mũciari wa Ngai (Theotokos), na ma Atheru oothe arĩa matũũraga magũkenagia kuuma okĩambĩrĩria."
+euLI.Key0602.text = "Anĩrĩrai!"
 euLI.Key0603.text = prayers_kik_KE_oak.KelefsonDespota
 euLI.Key0604.text = ""
-euLI.Key0605.text = ""
-euLI.Key0606.text = ""
+euLI.Key0605.text = "Mũnene, rathima gĩtĩ kĩa ũnene wa igũrũ."
+euLI.Key0606.text = "Kũrathimwo nĩwe ũikarĩire gĩtĩ-inĩ kĩa ũthamaki waku, Wee ũikaraga igũrũ rĩa Akerubi, hĩndĩ ciote, rĩu na tene, na kinya tene na tene."
 euLI.Key0607.text = ""
 euLI.Key0608.text = ""
 
@@ -46,7 +46,7 @@ euLI.Key0608.text = ""
 euLI.Key0701.text = ""
 euLI.Key0702.text = ""
 euLI.Key0703.text = ""
-euLI.Key0704.text = ""
+euLI.Key0704.text = "Wee Mũnene, muuma-andũ, tũma ũtheri mũtheru ũrĩa ũtathiraga wa ũũgĩ waku, ũhenie ngoro-inĩ ciitũ; hingũra maitho ma meciiria maitũ, tũigue moorutani ma kĩrĩkanĩro gĩaku. Ũtũiyũrie wĩtigĩri wa mawatho maku marathime, nĩ getha tũkinyangagĩrĩrie merirĩria ma mĩĩrĩ iitũ na tũthiage na mĩthiĩre ya muoyo wa kĩroho na wa ũ-ngai; nĩguo twĩciiragie na twĩkage ciĩko ciothe iria irĩgũkenagia Wee mbere-inĩ yaku. Tondũ, wee Kristo Ngai witũ, nĩwe ũtheru wa ngoro na mĩĩrĩ iitũ, na kũrĩ wee nĩtugũkũhe ũkumio hamwe na Ithe ũtarĩ kĩambĩrĩria, na hamwe na Muoyo (Roho) Mũtheru, ũrĩa Mwega na Mũheani wa muoyo, rĩu na tene, na kinya tene na tene. Amen. "
 euLI.Key0705.text = prayers_kik_KE_oak.gos04
 
 // Part 08 Ektenia
