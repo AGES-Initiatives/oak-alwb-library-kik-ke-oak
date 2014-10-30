@@ -51,21 +51,21 @@ euLI.Key0705.text = prayers_kik_KE_oak.gos04
 
 // Part 08 Ektenia
 euLI.Key0800.title = ""
-euLI.Key0801.text = ""
+euLI.Key0801.text = "Mwathani Ngai witũ, ĩtĩkĩra gũthaithana gũkũ kwa ndungata ciaku, na ũtũiguĩre tha, tondũ wa ũingĩ wa tha ciaku; na ũtũtũmĩre tha ciaku ithuĩ o na andũ aku oothe, arĩa twetereire ũtonga wa tha ciaku."
 
 // Part 09 Catechumens
 euLI.Key0900.title = ""
-euLI.Key0901.text = ""
-euLI.Key0902.text = ""
-euLI.Key0903.text = ""
-euLI.Key0904.text = ""
-euLI.Key0905.text = ""
-euLI.Key0906.text = ""
-euLI.Key0907.text = ""
-euLI.Key0908.text = ""
-euLI.Key0909.text = ""
-euLI.Key0910.text = ""
-euLI.Key0911.text = ""
+euLI.Key0901.text = "Akatekumeno, hoyai Mwathani."
+euLI.Key0902.text = "Etĩkia, rekei tũhoe nĩ ũndũ wa akatekumeno."
+euLI.Key0903.text = "Nĩ getha Mwathani amaiguĩre tha;"
+euLI.Key0904.text = "amarute wega kiugo kĩa ma;"
+euLI.Key0905.text = "amaguũrĩirie ciugo theru cia ma;"
+euLI.Key0906.text = "amohanie na Kanitha ũmwe mũtheru katholiki na ya atũmwo."
+euLI.Key0907.text = "Mahonokie, maiguĩre tha, mateithie na ũmagitĩre oothe, wee Ngai, kũhĩtũkĩra ũtugi-inĩ waku."
+euLI.Key0908.text = "Akatekumeno, inamiai mĩtwe yanyu mbere ya Mwathani."
+euLI.Key0909.text = "Mwathani Ngai witũ, wee ũikaraga igũrũ na ũcũũthagĩrĩria gũkũ thĩ; wee ũria watũmĩire njiarũa ciothe ũhonokio na Mũriũ waku wa mũmwe na Ngai witũ, Mwathani witũ Jesu Kristo, cũũthĩrĩria ndungata ciaku akatekumeno, arĩa mainamĩrĩirie ngingo ciao kũrĩ we; tũma magĩrĩre na gũciarwo rĩngĩ na maĩ, ihinda rĩrĩa rĩagĩrĩru, na moherwo mehia mao, na mehumbe nguo itagathira; ũmohanie na Kanitha ĩmwe theru, katholiki na ya atũmwo, na ũmataranĩrie na rũrũ rwaku rũrĩa rũthuure."
+euLI.Key0910.text = "Na nĩ getha makumagie rĩĩtwa rĩaku rĩa gĩtĩyo na rĩa magegania hamwe na ithuĩ, rĩa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
+euLI.Key0911.text = "Umai, arĩa mũrĩ akatekumeno. Akatekumeno, umai. Umai, arĩ mũrĩ akatekumeno. Mũtigatigare akatekumeno."
 euLI.Key0912.text = ""
  
 // Part 10 Prayers of the Faithful
