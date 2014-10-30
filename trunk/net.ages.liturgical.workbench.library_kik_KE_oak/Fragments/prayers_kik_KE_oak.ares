@@ -28,7 +28,7 @@ DoxaSoiChriste1 = ""
 
 DoxaSoiChriste2 = ""
 
-DoxaSoiKyrie = ""
+DoxaSoiKyrie = "Ũrokumio, wee Mwathani, ũrokumio wee."
 
 DoxaSoiKyrieP = "(Urokumio wee Mwathani, Urokumio wee.)"
 
@@ -188,11 +188,11 @@ pet13 = "Tũririkane Mũciari wa Ngai (Theotokos), mũtheru mũrathime na mũkum
 
 pet14 = "Rĩngĩ na rĩngĩ thĩ-inĩ wa thayũ, rekei tũhoe Mwathani." // Short Litany
 
-pet15 = "" // Ektenia
+pet15 = "Rekei tuuge na mĩoyo iitũ na meciiria maitũ, rekei tuuge." // Ektenia
 
-pet16 = ""
+pet16 = "Mwathani mwene hinya, Ngai wa maithe maitũ, nĩtwakũhoya wee, thikĩrĩria na ũtũiguĩre tha."
 
-pet17 = "Tuigure tha ui Ngai kuringana na uguo that ciaku ciingihite. Nitwakuhoya utuiguire tha."
+pet17 = "Tũiguĩre that ithuĩ, ũi Ngai, kũringana na tha ciaku nyingĩ, nĩtwakũhoya wee, thikĩrĩria na ũtũiguĩre tha."
 
 pet18 = ""
 
@@ -216,7 +216,7 @@ pet21p = ""
 
 pet22 = ""
 
-pet23 = ""
+pet23 = "Makĩria nĩtwakũhoya nĩ ũndũ wa arĩa marehage matunda na makaruta wĩra mwega, thĩ-inĩ wa kanitha ĩno theru na ya gĩtĩyo, na nĩ ũndũ wa arĩa marutaga wĩra wa ũtungati, na aini, na andũ arĩa me hakuhĩ arĩa metereire momĩrĩirie mena mwĩhoko waku mũnene wa tha nyingĩ."
 
 pet24 = "" // Complementary
 
@@ -238,7 +238,7 @@ pet29 = ""
 
 pet30 = ""
 
-pet31 = "Thayu urogia na inyui oothe."
+pet31 = "Thayũ ũrogĩa na inyuĩ."
 
 pet32 = "Rekei tuinamie mitwe iitu kuri Mwathani."
 
@@ -486,7 +486,7 @@ res03 = "Kũrĩ wee, Mwathani."
 
 res04 = "Amen."
 
-res05 = ""
+res05 = "O hamwe na muoyo waku."
 
 res06 = ""
 
@@ -570,7 +570,7 @@ exc09 = ""
 
 exc10 = ""
 
-exc11 = "Niundu wee wi Ngai wi tha na kuri wee nitugukuhe ukumio, kuri Ithe na Muriu na Muoyo Mutheru, riu na hindi cioothe na kinya tene na tene."
+exc11 = "Tondũ wĩ Ngai wĩ tha na muuma-andũ, na kũrĩ we nĩtũgũkũhe ũkomio, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
 exc11a = ""
 
@@ -614,17 +614,17 @@ epi01a = "" // leave blank in Greek
 
 epi01b = "Mathomo"
 
-epi02 = ""
+epi02 = "Thayũ ũrogĩa nawe wathoma, na kũrĩ andũ oothe."
 
 gos01 = ""
 
-gos02 = "Rekei tuigue uhoro Mwega wa Evanjelio Theru."
+gos02 = "Tũthikĩrĩrie ũhoro mwega wa Evangelio (Injiri) theru."
 
 gos03a = "Tuguthoma uhoro Mwega uria wandikirwo ni"
 
 gos03b = ""
 
-gos04 = ""
+gos04 = "Thayũ ũrogĩa nawe wathoma Ũhoro mwega."
 
 verse_Angels.text = ""
 
