@@ -112,7 +112,7 @@ PaschaDialog6.text = ""
 
 PaterImon.text = "Ithe witu wi iguru, riitwa riaku riamurwo, uthamaki waku uuke uria wendete wee, niwikagwo guku thi, ota uria wikagwo kuu iguru, Tuhe umuthi irio ciitu cia gutuigana  na utuohere mawihia maitu ta uria ithui tuohagira aria mawihagia na ndugatutware magerio-ini no kuhonokia utuhonokagie kuuma uuru-ini."
 
-Pistevo.text = ""
+Pistevo.text = "Nĩnjĩtĩkitie Ngai ũmwe, Ithe, mwene hinya, mũũmbi wa igũrũ na thĩ, na wa indo ciothe cionekaga na itonekaga. Na ngetĩkia Mwathani ũmwe, Jesu Kristo, Mũriũ wa Ngai wa mũmwe, ũrĩa waciarirũo nĩ Ithe mbere ya mĩndĩ na mĩndĩ. Ũtheri uumĩte ũtheri, Ngai wa ma uumĩte Ngai wa ma, ũrĩa waciarirũo na tikũmbwo ombirũo, ningĩ mũthemba wake na wa Ithe nĩ mũthemba ũmwe kũna, nacio indo ciothe ciombirũo nĩwe. Ũrĩa waikũrũkĩre akiuma igũrũ nĩ ũndũ witũ andũ a thĩ na nĩ ũndũ wa ũhonokio witũ, akĩgĩa na mwĩrĩ, agiciarũo nĩ mũirĩtu mũtheru Maria na ũndũ wa hinya wa Muoyo (Roho) Mũtheru, agĩtuĩka mũndũ. Na ningĩ akĩambwo mũtĩ igũrũ nĩ ũndũ witũ, hĩndĩ ya Pontio Pilato, akĩnyarirwo, agĩthikwo. Na mũthenya wa ĩtatũ akĩriũka a ta ũrĩa kwandĩkĩtwo maandĩko-inĩ. Akĩambata igũrũ, na aikaire guoko-inĩ kwa ũrĩo gwa Ithe. Na nĩagoka rĩngĩ na ũkumio, acirithie arĩa me muoyo na arĩa makuĩte, naguo ũthamaki wake ndũgathira. Na nĩnjĩtĩkitie Muoyo (Roho) Mũtheru, Mwathani, Mũheani wa muoyo, ũrĩa uumaga kũrĩ Ithe, na ũrĩa hamwe na Ithe na Mũriũ mainamagĩrĩrũo, magĩkumagio, na ũrĩa waaririe na tũnua twa Anabii. Na nĩnjĩtĩkitie Kanitha (Ekklesia) ĩmwe, theru, katholiki (ya thĩ oothe), na ya Atũmwo. Na nĩngumbũra ũbatithio ũmwe wa kweheria mehia. Na nĩnjetereire kũriũka kwa akuũ. Na muoyo ũrĩa ũgooka wa tene na tene. Amen."
 
 SoulSaturday.text = ""
 
@@ -218,7 +218,7 @@ pet22 = ""
 
 pet23 = "Makĩria nĩtwakũhoya nĩ ũndũ wa arĩa marehage matunda na makaruta wĩra mwega, thĩ-inĩ wa kanitha ĩno theru na ya gĩtĩyo, na nĩ ũndũ wa arĩa marutaga wĩra wa ũtungati, na aini, na andũ arĩa me hakuhĩ arĩa metereire momĩrĩirie mena mwĩhoko waku mũnene wa tha nyingĩ."
 
-pet24 = "" // Complementary
+pet24 = "Rekei tũrĩkie mahoya maitũ kũrĩ Mwathani." // Complementary
 
 pet24v = ""
 
@@ -226,17 +226,17 @@ pet24m = ""
 
 pet25v = ""
 
-pet25m = ""
+pet25m = "Nĩ ũndũ wa mũthenya ũyũ woothe ũtuĩke mwega, mũtheru, wĩ thayũ, na ũtarĩ na wĩhia, rekei tũũrie Mwathani."
 
-pet26 = ""
+pet26 = "Nĩ ũndũ wa mũraika wa thayũ, mũtongoria mwĩtĩkia, na mũrangĩri wa mĩoyo iitũ, o na mĩĩrĩ iitũ, rekei tũũrie Mwathani."
 
-pet27 = ""
+pet27 = "Nĩ ũndũ wa woheri na gũthengerio kwa mawĩhia na maũũru maitũ, rekei tũũrie Mwathani."
 
-pet28 = ""
+pet28 = "Nĩ ũndũ wa indo ciothe iria njega, na ii na ũmithio harĩ mĩoyo-inĩ iitũ, na nĩ ũndũ wa thayũ wa thĩ yoothe, rekei tũũrie Mwathani."
 
-pet29 = ""
+pet29 = "Na nĩguo tũhote kũrĩkia ihinda rĩrĩa rĩtigaru rĩa mĩoyo iitũ twĩna thayũ na wĩriro, rekei tũũrie Mwathani."
 
-pet30 = ""
+pet30 = "Na nĩguo mĩtũũrĩre iitũ ya kũrigĩrĩa ĩkorũo ĩ ya ũkristiano, ĩtarĩ na ruo, ũcuuke na ĩĩna thayũ; na kwĩrigĩrĩria kwega mbere ya ũgwati wa cira ũrĩa ũgaikarĩrũo gĩtĩ nĩ Kristo, rekei tũũrie Mwathani."
 
 pet31 = "Thayũ ũrogĩa na inyuĩ."
 
@@ -480,7 +480,7 @@ sup99 = ""
 
 res01 = "Mwathani, igua tha."
 
-res02 = ""
+res02 = "Ĩtĩkĩra, ũi Mwathani."
 
 res03 = "Kũrĩ wee, Mwathani."
 
