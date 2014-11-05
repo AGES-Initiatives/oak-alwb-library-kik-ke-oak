@@ -110,7 +110,7 @@ PaschaDialog4.text = ""
 PaschaDialog5.text = ""
 PaschaDialog6.text = ""
 
-PaterImon.text = "Ithe witu wi iguru, riitwa riaku riamurwo, uthamaki waku uuke uria wendete wee, niwikagwo guku thi, ota uria wikagwo kuu iguru, Tuhe umuthi irio ciitu cia gutuigana  na utuohere mawihia maitu ta uria ithui tuohagira aria mawihagia na ndugatutware magerio-ini no kuhonokia utuhonokagie kuuma uuru-ini."
+PaterImon.text = "Ithe witũ wĩ igũrũ; rĩĩtwa rĩaku nĩrĩtherio; ũthamaki waku ũũke; o ũrĩa wendete wee, nĩwĩkagwo gũkũ thĩ, o ta ũrĩa wĩkagwo kũu igũrũ. Tũhe ũmũthi irio ciitu cia gũtũigana; na ũtũrekere mawĩhia maitũ, o ta ũrĩa ithuĩ tũrekagĩra arĩa matwĩhagia; na ndũgatũtware magerio-inĩ, no kũhonokia ũtũhonokie kuuma ũũru-inĩ."
 
 Pistevo.text = "Nĩnjĩtĩkitie Ngai ũmwe, Ithe, mwene hinya, mũũmbi wa igũrũ na thĩ, na wa indo ciothe cionekaga na itonekaga. Na ngetĩkia Mwathani ũmwe, Jesu Kristo, Mũriũ wa Ngai wa mũmwe, ũrĩa waciarirũo nĩ Ithe mbere ya mĩndĩ na mĩndĩ. Ũtheri uumĩte ũtheri, Ngai wa ma uumĩte Ngai wa ma, ũrĩa waciarirũo na tikũmbwo ombirũo, ningĩ mũthemba wake na wa Ithe nĩ mũthemba ũmwe kũna, nacio indo ciothe ciombirũo nĩwe. Ũrĩa waikũrũkĩre akiuma igũrũ nĩ ũndũ witũ andũ a thĩ na nĩ ũndũ wa ũhonokio witũ, akĩgĩa na mwĩrĩ, agiciarũo nĩ mũirĩtu mũtheru Maria na ũndũ wa hinya wa Muoyo (Roho) Mũtheru, agĩtuĩka mũndũ. Na ningĩ akĩambwo mũtĩ igũrũ nĩ ũndũ witũ, hĩndĩ ya Pontio Pilato, akĩnyarirwo, agĩthikwo. Na mũthenya wa ĩtatũ akĩriũka a ta ũrĩa kwandĩkĩtwo maandĩko-inĩ. Akĩambata igũrũ, na aikaire guoko-inĩ kwa ũrĩo gwa Ithe. Na nĩagoka rĩngĩ na ũkumio, acirithie arĩa me muoyo na arĩa makuĩte, naguo ũthamaki wake ndũgathira. Na nĩnjĩtĩkitie Muoyo (Roho) Mũtheru, Mwathani, Mũheani wa muoyo, ũrĩa uumaga kũrĩ Ithe, na ũrĩa hamwe na Ithe na Mũriũ mainamagĩrĩrũo, magĩkumagio, na ũrĩa waaririe na tũnua twa Anabii. Na nĩnjĩtĩkitie Kanitha (Ekklesia) ĩmwe, theru, katholiki (ya thĩ oothe), na ya Atũmwo. Na nĩngumbũra ũbatithio ũmwe wa kweheria mehia. Na nĩnjetereire kũriũka kwa akuũ. Na muoyo ũrĩa ũgooka wa tene na tene. Amen."
 
@@ -240,7 +240,7 @@ pet30 = "Na nĩguo mĩtũũrĩre iitũ ya kũrigĩrĩa ĩkorũo ĩ ya ũkristian
 
 pet31 = "Thayũ ũrogĩa na inyuĩ."
 
-pet32 = "Rekei tuinamie mitwe iitu kuri Mwathani."
+pet32 = "Rekei tũinamie mĩtwe iitũ mbere ya Mwathani."
 
 pet33 = "" // Lity
 
@@ -558,7 +558,7 @@ exc06 = ""
 
 exc07 = ""
 
-exc07a = ""
+exc07a = "Kũhĩtũkĩra wega-inĩ na tha-inĩ na uuma-andũ, wa Mũrũguo waku wa mũmwe, ũrĩa wee mũrathimagũo hamwe nake, na hamwe na Muoyo (Roho) waku Mũtheru mũno, na mwega na mũheani wa muoyo, rĩu na tene, na kinya tene na tene."
 
 exc07b = ""
 
@@ -592,7 +592,7 @@ exc18 = "Rũgamai, tũthikĩrĩrie."
 
 exc19 = "Rekei tũthikĩrĩrie."
 
-exc20 = "Niundu Uthamaki ni waku ona hinya na kugoocwo, gwa Ithe, na Muriu na Muoyo Mutheru riu na tene na kinya tene na tene."
+exc20 = "Nĩ ũndũ ũthamaki ni waku, o na hinya, o na kũgoocwo, wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
 exc22 = ""
 
