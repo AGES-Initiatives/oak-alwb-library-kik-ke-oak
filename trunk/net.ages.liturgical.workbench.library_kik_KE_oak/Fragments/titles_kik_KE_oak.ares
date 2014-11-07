@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = titles_kik_KE_oak
 
-Allilouia = "Alleluia"
+Allilouia = ""
 
 Antifonon1 = ""
 
@@ -218,6 +218,8 @@ Mode = ""
 
 Nekrosimon = ""
 
+NekrosimonKanona = ""
+
 OAftos = ""
 
 OApostolos = ""
@@ -256,7 +258,7 @@ Proeortia = ""
 
 Proeortion = ""
 
-Prokeimenon = "Prokimeno"
+Prokeimenon = ""
 
 Prosomoia = ""
 
@@ -308,7 +310,9 @@ Stichoi = ""
 
 Synaxarion = ""
 
-TaAnagnosmata = "MATHOMO"
+TaAnagnosmata = ""
+
+TaAnastasima = ""
 
 TaKatAlfaviton = ""
 
@@ -391,6 +395,8 @@ TouEvangelistou = ""
 TouIerarchou = ""
 
 TouIeromartyros = ""
+
+TouLazarou = ""
 
 TouMartyros = ""
 
