@@ -111,7 +111,7 @@ PaschaDialog6.text = ""
 
 PaterImon.text = ""
 
-Pistevo.text = ""
+Pistevo.text = "Nĩnjĩtĩkitie Ngai ũmwe, Ithe, mwene hinya, mũũmbi wa igũrũ na thĩ, na wa indo ciothe cionekaga na itonekaga. Na ngetĩkia Mwathani ũmwe, Jesu Kristo, Mũriũ wa Ngai wa mũmwe, ũrĩa waciarirũo nĩ Ithe mbere ya mĩndĩ na mĩndĩ. Ũtheri uumĩte ũtheri, Ngai wa ma uumĩte Ngai wa ma, ũrĩa waciarirũo na tikũmbwo ombirũo, ningĩ mũthemba wake na wa Ithe nĩ mũthemba ũmwe kũna, nacio indo ciothe ciombirũo nĩwe. Ũrĩa waikũrũkĩre akiuma igũrũ nĩ ũndũ witũ andũ a thĩ na nĩ ũndũ wa ũhonokio witũ, akĩgĩa na mwĩrĩ, agiciarũo nĩ mũirĩtu mũtheru Maria na ũndũ wa hinya wa Muoyo (Roho) Mũtheru, agĩtuĩka mũndũ. Na ningĩ akĩambwo mũtĩ igũrũ nĩ ũndũ witũ, hĩndĩ ya Pontio Pilato, akĩnyarirwo, agĩthikwo. Na mũthenya wa ĩtatũ akĩriũka a ta ũrĩa kwandĩkĩtwo maandĩko-inĩ. Akĩambata igũrũ, na aikaire guoko-inĩ kwa ũrĩo gwa Ithe. Na nĩagoka rĩngĩ na ũkumio, acirithie arĩa me muoyo na arĩa makuĩte, naguo ũthamaki wake ndũgathira. Na nĩnjĩtĩkitie Muoyo (Roho) Mũtheru, Mwathani, Mũheani wa muoyo, ũrĩa uumaga kũrĩ Ithe, na ũrĩa hamwe na Ithe na Mũriũ mainamagĩrĩrũo, magĩkumagio, na ũrĩa waaririe na tũnua twa Anabii. Na nĩnjĩtĩkitie Kanitha (Ekklesia) ĩmwe, theru, katholiki (ya thĩ oothe), na ya Atũmwo. Na nĩngumbũra ũbatithio ũmwe wa kweheria mehia. Na nĩnjetereire kũriũka kwa akuũ. Na muoyo ũrĩa ũgooka wa tene na tene. Amen."
 
 SoulSaturday.text = ""
 
@@ -269,7 +269,7 @@ petCatechumens01 = ""
 
 petCatechumens02 = ""
 
-petCatechumens03 = "" 
+petCatechumens03 = ""
 
 petCatechumens04 = ""
 
@@ -285,7 +285,7 @@ petCatechumens09 = ""
 
 petCatechumens10 = ""
 
-petCatechumens11 = "" 
+petCatechumens11 = ""
 
 petCatechumens12 = ""
 
@@ -317,7 +317,7 @@ petCompline01 = ""
 
 petCompline02 = ""
 
-petCompline03 = "" //hierarch
+petCompline03 = "" // hierarch
 
 petCompline04 = ""
 

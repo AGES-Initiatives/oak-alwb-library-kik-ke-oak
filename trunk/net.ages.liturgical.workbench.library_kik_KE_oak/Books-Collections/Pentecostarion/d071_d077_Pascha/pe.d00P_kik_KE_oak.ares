@@ -1,9 +1,9 @@
 A_Resource_Whose_Name = pe.d00P_kik_KE_oak
 
-peCommemoration.text = "" //full title of day
+peCommemoration.text = "" // full title of day
 peShortCommemoration1.text = ""
-peInsert1 = "" //for use in petitions and dismissal
-peInsert2 = "" //for use in petitions and dismissal
+peInsert1 = "" // for use in petitions and dismissal
+peInsert2 = "" // for use in petitions and dismissal
 peNote.text = ""
 peDismissal = dismissals_kik_KE_oak.dis00.resurrection
 
@@ -21,7 +21,7 @@ pePA.ChristIsRisen1a.text = ""
 pePA.ChristIsRisen1b.text = ""
 pePA.ChristIsRisen2a.text = ""
 pePA.ChristIsRisen2b.text = ""
-pePA.ChristIsRisenShort.text = "" //for media
+pePA.ChristIsRisenShort.text = "" // for media
 
 //pePA.PaschaVerse1.text = ""
 
@@ -32,7 +32,7 @@ pePA.ChristIsRisenShort.text = "" //for media
 //pePA.PaschaVerse4.text = ""
 
 pePA.Canon.Poet = poets_kik_KE_oak.IoannouTouDamaskinou
-pePA.Canon.text = "" //for media of entire canon
+pePA.Canon.text = "" // for media of entire canon
 
 pePA.CanonT.Acrostic = ""
 
@@ -86,7 +86,7 @@ pePA.Ode3T2.mode = misc_kik_KE_oak.Mode1
 pePA.Ode3T2.melody = he.h.m1_kik_KE_oak.DeftePomaPiomen.name
 pePA.Ode3T2.text = ""
 
-pePA.Hypakoe.mode =misc_kik_KE_oak.Mode4
+pePA.Hypakoe.mode = misc_kik_KE_oak.Mode4
 pePA.Hypakoe.text = ""
 
 pePA.Ode4H.ode = misc_kik_KE_oak.Ode4
@@ -170,7 +170,7 @@ pePA.Ode6T2.melody = he.h.m1_kik_KE_oak.KatilthesEnToisKatotatois.name
 pePA.Ode6T2.text = ""
 
 pePA.Kontakion.mode = misc_kik_KE_oak.Mode8
-pePA.Kontakion.melody  = ""
+pePA.Kontakion.melody = ""
 pePA.Kontakion.text = ""
 
 pePA.Oikos.text = ""
@@ -253,7 +253,7 @@ pePA.Ode9M08.text = ""
  
 pePA.Ode9M09.text = ""
 
-pePA.Ode9MTr.text = me.m01.d06_kik_KE_oak.meMA.Ode9C2MTr.text 
+pePA.Ode9MTr.text = me.m01.d06_kik_KE_oak.meMA.Ode9C2MTr.text
  
 pePA.Ode9MTh.text = ""
  
@@ -321,20 +321,20 @@ pePA.Hours7.text = oc.m4.d1_kik_KE_oak.ocMA.OdeS7C1T.text
 
 pePA.Antiphon2.text = ho.s07_kik_KE_oak.hoLI.Antiphon2s.text
 
-pePA.EntranceHymn.text = "" //for media
+pePA.EntranceHymn.text = "" // for media
 
 pePA.SeasonalKontakion.mode = misc_kik_KE_oak.Mode8
-pePA.SeasonalKontakion.melody  = ""
+pePA.SeasonalKontakion.melody = ""
 pePA.SeasonalKontakion.text = pePA.Kontakion.text
 
 pePA.TheotokosHymn.mode = misc_kik_KE_oak.Mode1
 pePA.TheotokosHymnVerse.text = pePA.Ode9MKa.text
 pePA.TheotokosHymn.text = pePA.Ode9H.text
 
-pePA.CommunionHymn.text = ""
+pePA.CommunionHymn.text = "Mwamũkĩre Mwĩrĩ wa Kristo, mũnyue gĩthima kĩa muoyo wa tene na tene."
 
 pePA.AfterCommunion.mode = misc_kik_KE_oak.Mode5
 pePA.AfterCommunion.text = pePA.ChristIsRisen.text
 
-pePA.AfterCommunion2.mode = misc_kik_KE_oak.Mode5 //instead of Blessed be the name
+pePA.AfterCommunion2.mode = "misc_kik_KE_oak.Mode5" // instead of Blessed be the name
 pePA.AfterCommunion2.text = pePA.ChristIsRisen.text
