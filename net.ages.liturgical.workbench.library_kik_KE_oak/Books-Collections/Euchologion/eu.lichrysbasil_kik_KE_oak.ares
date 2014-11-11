@@ -230,21 +230,21 @@ euLI.Key1601.text = "Oya na igũrũ, Mũnene."
 euLI.Key1602.text = ""
 euLI.Key1603.text = ""
 euLI.Key1604.title = ""
-euLI.Key1604.text = ""
-euLI.Key1605.text = ""
+euLI.Key1604.text = "Rũgamai na igũrũ; nĩtwarĩkia kwamũkĩra igongona rĩa Kristo rĩtheru, rĩtarĩ na karema ka ũũru, rĩtathiraga na rĩa igũrũ, na rĩa kũheana muoyo, o na rĩa gwĩtigĩrũo, rekei tũcookerie Mwathani ngaatho."
+euLI.Key1605.text = "Nĩtwakũhoya mũthenya ũyũ woothe ũtuĩke mwega, mũtheru, wĩ thayũ, na ũtarĩ na wĩhia, na ningĩ rekei twĩrutĩre ithuĩ, o mũndũ na ũrĩa, na mĩoyo iitũ yoothe, kũrĩ Kristo Ngai witũ."
 euLI.Key1606.title = ""
-euLI.Key1606.text = ""
+euLI.Key1606.text = "Nĩtwagũcokeria ngaatho, wee Mũnene, muuma-andũ, wee mũtugi wa mĩoyo iitũ, tondũ mũthenya ũyũ wa ũmũthi nĩũtũmire twagĩrĩre a kwamũkĩra igongona rĩaku rĩa igũrũ na rĩtathiraga. Rũngaria njĩra iitũ, yagĩrĩre; na ũtũrũgamie ithuothe thĩ-inĩ wa wĩtigĩri waku; rangĩra mĩoyo iitũ, rũgamĩrĩra mĩthiĩre iitũ, kũhĩtũkĩra mahoya-inĩ ma Mũciari wa Ngai (Theotokos) mũkumie na mũirĩtu mũtheru Maria, o na atheru aku oothe."
 euLI.Key1606.basil.text = ""
 euLI.Key1607.text = prayers_kik_KE_oak.exc24
  
 // Part 17 Dismissal
 euLI.Key1700.title = ""
-euLI.Key1701.text = ""
+euLI.Key1701.text = "Thĩ-inĩ wa thayũ rekei tũtigane."
 euLI.Key1702.title = ""
-euLI.Key1702.text = ""
+euLI.Key1702.text = "Ũi Mwathani, ũrĩa ũrathimaga arĩa makũrathimaga, na ũgatheria arĩa maigĩte mwĩhoko wao thĩ-inĩ waku, honokia andũ aku na ũrathime ũgai waku. Ũgitĩre arũmĩrĩri a Kanitha waku, ũtherie arĩa mendaga ũthaka wa nyũmba yaku. Mahe ũkumio na hinya waku mũtheru, na ndũkariganĩrwo nĩ ithuĩ arĩa twĩna mwĩhoko kũrĩ wee. Heana thayũ kũrĩ thĩ yaku yoothe, na kũrĩ Kanitha waku, o na kũrĩ arathimithia, na kũrĩ mũthamaki witũ, na kũrĩ atongoria aitũ, o na kũrĩ mbũtũ ciitũ ciothe, o na kũrĩ kĩrĩndĩ gĩaku gĩothe. Tondũ kĩheo gĩothe kĩega na gĩkinyanĩru gĩikũrũkaga kuuma igũrũ kũrĩ wee, Ithe wa motheri; na kũrĩ wee nĩtũgkũhe ũkumio, na ngaatho, na tũinamĩrĩre kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 euLI.Key1702.basil.text = ""
 euLI.Key1703.text = "" // for media
-euLI.Key1704.text = ""
+euLI.Key1704.text = "Ũi Kristo Ngai witũ, ũrĩa wahingirie Watho na ũrathi wa Anabii, na ũrĩa wahingirie wendi wa Ngai Ithe, wee nĩwe ũiyũragia ngoro ciitũ gĩkeno na thayũ, hĩndĩ ciothe, rĩu na tene, na kinya tene na tene. Amen."
 euLI.Key1704.basil.text = ""
 euLI.Key1705.text = prayers_kik_KE_oak.pet37
 euLI.Key1706.text = ""
