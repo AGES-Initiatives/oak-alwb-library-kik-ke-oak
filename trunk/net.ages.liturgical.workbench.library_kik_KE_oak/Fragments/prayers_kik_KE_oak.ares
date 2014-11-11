@@ -26,7 +26,7 @@ DoxaPatri.text = ""
 
 DoxaSoiChriste1 = ""
 
-DoxaSoiChriste2 = ""
+DoxaSoiChriste2 = "Ũrokumio wee, ũi Ngai, wee mwĩhoko witũ, ũrokumio wee."
 
 DoxaSoiKyrie = ""
 
@@ -46,7 +46,7 @@ DoxaToPatri.text = ""
 
 EisToOnoma = ""
 
-EvlogitosOTheosImon.text = ""
+EvlogitosOTheosImon.text = "Kũrathimwo nĩ Ngai witũ,"
 
 EvlogoumenPatera.text = ""
 
@@ -60,7 +60,7 @@ KelefsonDespota = ""
 
 OTheosOiktirisai.text = ""
 
-PantoteNyn.text = ""
+PantoteNyn.text = "Hĩndĩ ciothe, rĩu na tene, na kinya tene na tene."
 
 Evlogison = ""
 
@@ -141,7 +141,7 @@ enarxis02 = ""
 
 enarxis03 = ""
 
-pet00 = ""
+pet00 = "Rekei tũhoe Mwathani."
 
 pet01 = "" // Great Litany
 
@@ -181,7 +181,7 @@ pet10 = ""
 
 pet11 = ""
 
-pet12 = ""
+pet12 = "Tũteithie, tũhonokie, tũiguĩre tha na ũtũgitĩre ithuĩ, wee Ngai, kũhĩtũkĩra ũtũgĩ-inĩ waku."
 
 pet13 = ""
 
@@ -249,7 +249,7 @@ pet35 = ""
 
 pet36 = ""
 
-pet37 = "" // Dismissal
+pet37 = "Kĩrathimo na tha cia Mwathani ciũke igũrũ riitũ, kũhĩtũkĩra wega-inĩ mũtheru na uuma-andũ wake, hĩndĩ ciothe, rĩu na tene, na kinya tene na tene." // Dismissal
 
 petBap01 = ""
 
@@ -477,17 +477,17 @@ sup15 = ""
 
 sup99 = ""
 
-res01 = ""
+res01 = "Mwathani, igua tha."
 
 res02 = ""
 
-res03 = ""
+res03 = "Kũrĩ wee, Mwathani."
 
-res04 = ""
+res04 = "Amen."
 
 res05 = ""
 
-res06 = ""
+res06 = "Mwathani, igua tha. Mwathani, igua tha. Mwathani, igua tha."
 
 res07 = ""
 
@@ -499,7 +499,7 @@ res10 = ""
 
 res12 = ""
 
-res13 = ""
+res13 = "Mũnene, rathima."
 
 res14 = ""
 
@@ -597,7 +597,7 @@ exc22 = ""
 
 exc23 = ""
 
-exc24 = ""
+exc24 = "Tondũ wee nĩwe mũtheria witũ, na kũrĩ wee nĩtũgũkũhe ũkumio, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
 exc25 = ""
 
