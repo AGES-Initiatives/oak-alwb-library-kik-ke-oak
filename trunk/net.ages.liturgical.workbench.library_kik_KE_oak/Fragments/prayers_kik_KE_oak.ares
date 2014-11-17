@@ -22,7 +22,7 @@ DiEfchonDespotou.text = ""
 
 DiEfchonPateron.text = "Ũrĩa ũtũrathimaga na agatũtheria, mũrangĩre, wee Mwathani, na ũmũhe mĩaka mĩingĩ."
 
-DoxaPatri.text = ""
+DoxaPatri.text = "Gũkumio kũrogĩa kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru."
 
 DoxaSoiChriste1 = ""
 
@@ -52,7 +52,7 @@ EvlogoumenPatera.text = ""
 
 IElpisImonKyrie = ""
 
-KaiNynKaiAei.text = ""
+KaiNynKaiAei.text = "Na rĩu na tene, na kinya tene na tene. Amen."
 
 Kelefson = ""
 
@@ -84,7 +84,7 @@ EleisonMeOTheos.text = ""
 
 AxionEstin.text = ""
 
-AgiosOTheos.text = ""
+AgiosOTheos.text = "Ngai Mũtheru, Mũtheru wĩ hinya, Mũtheru ũtakuaga, ũtũiguĩre tha."
 
 EpouranieVasilef.text = ""
 
@@ -109,7 +109,7 @@ PaschaDialog4.text = ""
 PaschaDialog5.text = ""
 PaschaDialog6.text = ""
 
-PaterImon.text = ""
+PaterImon.text = "Ithe witũ wĩ igũrũ; rĩĩtwa rĩaku nĩrĩtherio; ũthamaki waku ũũke; o ũrĩa wendete wee, nĩwĩkagwo gũkũ thĩ, o ta ũrĩa wĩkagwo kũu igũrũ. Tũhe ũmũthi irio ciitu cia gũtũigana; na ũtũrekere mawĩhia maitũ, o ta ũrĩa ithuĩ tũrekagĩra arĩa matwĩhagia; na ndũgatũtware magerio-inĩ, no kũhonokia ũtũhonokie kuuma ũũru-inĩ."
 
 Pistevo.text = "Nĩnjĩtĩkitie Ngai ũmwe, Ithe, mwene hinya, mũũmbi wa igũrũ na thĩ, na wa indo ciothe cionekaga na itonekaga. Na ngetĩkia Mwathani ũmwe, Jesu Kristo, Mũriũ wa Ngai wa mũmwe, ũrĩa waciarirũo nĩ Ithe mbere ya mĩndĩ na mĩndĩ. Ũtheri uumĩte ũtheri, Ngai wa ma uumĩte Ngai wa ma, ũrĩa waciarirũo na tikũmbwo ombirũo, ningĩ mũthemba wake na wa Ithe nĩ mũthemba ũmwe kũna, nacio indo ciothe ciombirũo nĩwe. Ũrĩa waikũrũkĩre akiuma igũrũ nĩ ũndũ witũ andũ a thĩ na nĩ ũndũ wa ũhonokio witũ, akĩgĩa na mwĩrĩ, agiciarũo nĩ mũirĩtu mũtheru Maria na ũndũ wa hinya wa Muoyo (Roho) Mũtheru, agĩtuĩka mũndũ. Na ningĩ akĩambwo mũtĩ igũrũ nĩ ũndũ witũ, hĩndĩ ya Pontio Pilato, akĩnyarirwo, agĩthikwo. Na mũthenya wa ĩtatũ akĩriũka a ta ũrĩa kwandĩkĩtwo maandĩko-inĩ. Akĩambata igũrũ, na aikaire guoko-inĩ kwa ũrĩo gwa Ithe. Na nĩagoka rĩngĩ na ũkumio, acirithie arĩa me muoyo na arĩa makuĩte, naguo ũthamaki wake ndũgathira. Na nĩnjĩtĩkitie Muoyo (Roho) Mũtheru, Mwathani, Mũheani wa muoyo, ũrĩa uumaga kũrĩ Ithe, na ũrĩa hamwe na Ithe na Mũriũ mainamagĩrĩrũo, magĩkumagio, na ũrĩa waaririe na tũnua twa Anabii. Na nĩnjĩtĩkitie Kanitha (Ekklesia) ĩmwe, theru, katholiki (ya thĩ oothe), na ya Atũmwo. Na nĩngumbũra ũbatithio ũmwe wa kweheria mehia. Na nĩnjetereire kũriũka kwa akuũ. Na muoyo ũrĩa ũgooka wa tene na tene. Amen."
 
@@ -137,19 +137,19 @@ fbPresveiaisKyrieTonAgion = ""
 
 enarxis01 = ""
 
-enarxis02 = ""
+enarxis02 = "Kũrathimwo ni ũthamaki wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
 enarxis03 = ""
 
 pet00 = "Rekei tũhoe Mwathani."
 
-pet01 = "" // Great Litany
+pet01 = "Twĩna thayũ, rekei tũhoe Mwathani." // Great Litany
 
-pet02 = ""
+pet02 = "Nĩ ũndũ wa thayũ wa kuuma igũrũ na ũhonokio wa mĩoyo iitũ, rekei tũhoe Mwathani."
 
-pet03 = ""
+pet03 = "Nĩ ũndũ wa thayũ wa thĩ yoothe, na nĩ ũndũ wa wĩhandi mwega wa Makanitha matheru ma Ngai, na nĩ ũndũ wocokanĩrĩria wa andũ oothe, rekei tũhoe Mwathani."
 
-pet04 = ""
+pet04 = "Nĩ ũndũ wa nyũmba ĩno theru, na nĩ ũndũ wa arĩa matonyaga yo mena wĩtĩkio, gĩtĩyo na wĩtigĩri wa Ngai, rekei tũhoe Mwathani."
 
 pet04alt1.title = ""
 pet04alt1 = ""
@@ -159,7 +159,7 @@ pet04alt2 = ""
 
 pet05 = ""
 
-pet06 = ""
+pet06 = "Nĩ ũndũ wa Mũmbicobu witũ mũnene (rĩĩtwa), o na arathimithia na aramati aitũ wira-inĩ wa Kristo, na arĩa aamũre, na andũ oothe, rekei tũhoe Mwathani."
 
 pet06a = "" // supplement with client specific rank and name
 
@@ -167,23 +167,23 @@ pet06b = ""
 
 pet07L = ""
 
-pet07S = ""
+pet07S = "Nĩ ũndũ wa Bũrũri ũyũ witũ, na mũthamaki (rĩĩtwa) na atongoria aguo, na mbũtũ ciitũ cia ita, cia maĩ-inĩ, o na cia rĩera-inĩ, na cia thĩ nyũmũ, rekei tũhoe Mwathani."
 
 pet07Sa = ""
 
 pet08 = ""
 
-pet08alt = ""
+pet08alt = "Nĩ ũndũ wa itũũra rĩrĩ, na matũũra marĩa mangĩ moothe, na mabũrũri moothe, na nĩ ũndũ wa arĩa metĩkĩtie matũũraga thĩ-inĩ wamo, rekei tũhoe Mwathani."
 
-pet09 = ""
+pet09 = "Nĩ ũndũ wa imera iria njega, na nĩ ũndũ wa bũthi na thayũ wa mahinda moothe, rekei tũhoe Mwathani."
 
-pet10 = ""
+pet10 = "Nĩ ũndũ wa arĩa maragerera thĩ nyũmũ kana maĩ-inĩ, kana rĩera-inĩ, na nĩ ũndũ wa arĩa arũaru, nĩ ũndũ wa arĩa marathĩnĩka, nĩ ũndũ wa arĩa matahĩtwo, na nĩ ũndũ wa kũhonokio kwao, rekei tũhoe Mwathani."
 
-pet11 = ""
+pet11 = "Nĩ ũndũ wa gũtũhonokia kuuma mathĩna-inĩ moothe, marakara, mogwati na mabata, rekei tũhoe Mwathani."
 
 pet12 = "Tũteithie, tũhonokie, tũiguĩre tha na ũtũgitĩre ithuĩ, wee Ngai, kũhĩtũkĩra ũtũgĩ-inĩ waku."
 
-pet13 = ""
+pet13 = "Tũririkane Mũciari wa Ngai (Theotokos), mũtheru mũrathime na mũkumie Mũirĩtu mũthingu na atũire e Mũtheru Maria, hamwe na Atheru oothe, rekei twĩrutĩre ithuĩ, o mũndũ na ũrĩa, na mĩoyo iitũ yoothe, kũrĩ Kristo Ngai witũ."
 
 pet14 = "" // Short Litany
 
@@ -491,7 +491,7 @@ res06 = "Mwathani, igua tha. Mwathani, igua tha. Mwathani, igua tha."
 
 res07 = ""
 
-res08 = ""
+res08 = "Mũnene, rathima."
 
 res09 = ""
 
@@ -537,7 +537,7 @@ res15p = ""
 
 res16p = ""
 
-exc01 = ""
+exc01 = "Nĩ ũndũ ũkumio wĩ kũrĩ Wee, na gũtĩyo, na kũgoocwo, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
 exc01a = ""
 
@@ -591,7 +591,7 @@ exc18 = ""
 
 exc19 = ""
 
-exc20 = ""
+exc20 = "Nĩ ũndũ ũthamaki ni waku, o na hinya, o na kũgoocwo, wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
 exc22 = ""
 
