@@ -10,7 +10,7 @@ Allilouia1 = ""
 
 Allilouia3.text = "Alleluia. Alleluia. Alleluia."
 
-Allilouia3Doxa.text = ""
+Allilouia3Doxa.text = "Alleluia, Alleluia, Alleluia. Ũrokumio wee, Ngai."
 
 DefteProskinisomen1 = ""
 
@@ -507,13 +507,13 @@ res15 = ""
 
 res16 = ""
 
-res01p = ""
+res01p = "Mwathani, igua tha."
 
 res02p = ""
 
-res03p = ""
+res03p = "Kũrĩ wee, Mwathani."
 
-res04p = ""
+res04p = "Amen."
 
 res05p = ""
 
