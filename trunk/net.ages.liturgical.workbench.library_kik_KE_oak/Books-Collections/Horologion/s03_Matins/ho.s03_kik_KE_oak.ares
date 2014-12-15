@@ -77,23 +77,23 @@ Triadic3
 R12a = ""
 R12b = ""
 
-hoMA.ResEvlog.title1 = ""
+hoMA.ResEvlog.title1 = "Evlogitaria (Ndathimo cia Kũriũka)"
 hoMA.ResEvlog.title2 = ""
 //Title Mode5
 R13 = ""
-hoMA.ResEvlogVerse.text = ""
+hoMA.ResEvlogVerse.text = "Kũrathimwo nĩwe, Mwathani, nduta mawatho maku."
 hoMA.ResEvlog1.mode = misc_kik_KE_oak.Mode5
-hoMA.ResEvlog1.text = ""
+hoMA.ResEvlog1.text = "Ikundi cia araika nĩciagegire, rĩrĩa cionire atĩ nĩ ũtaranĩirio na arĩa akuũ, na nĩwaninire hinya wa gĩkuũ, wee Mũhonokia, na nĩwokĩririe Adamu e hamwe nawe, na ũkĩohora arĩa oothe naarĩ gĩkuũ-inĩ."
 hoMA.ResEvlog2.mode = misc_kik_KE_oak.Mode5
-hoMA.ResEvlog2.text = ""
+hoMA.ResEvlog2.text = "Nĩkĩĩ kĩratuma inyuĩ atumia arutwo mũtukanie maguta manungi wega na maithori manyu ma-tha? Mũraika wahenagia e hakuhĩ na mbĩrĩra, nĩeerire atumia arĩa maakuĩte maguta: Onei mbĩrĩra na mũmenye atĩ Mũhonokia nĩariũkĩte akoima mbĩrĩra-inĩ."
 hoMA.ResEvlog3.mode = misc_kik_KE_oak.Mode5
-hoMA.ResEvlog3.text = ""
+hoMA.ResEvlog3.text = "Rũcinĩ tene atumia arĩa maakuĩte maguta manungi wega nĩmahiũhĩte magĩcakayaga merekeire mbĩrĩra-inĩ yaku; no rĩrĩ mũraika akĩũka na kũrĩ o, na akiuga: Ihinda rĩa gũcakaya nĩ ithiru, tigai kũrĩra; na mũkeere atumwo nĩariũkĩte."
 hoMA.ResEvlog4.mode = misc_kik_KE_oak.Mode5
-hoMA.ResEvlog4.text = ""
+hoMA.ResEvlog4.text = "Atumia, arĩa maakuĩte maguta manungi wega, makuhĩhĩria mbĩrĩra yaku, wee Mũhonokia, nĩmaiguĩre mũraika akĩmarĩria na mũgambo mũnene: Nĩkĩĩ kĩratũma mũtaranĩrie ũrĩa wĩ muoyo hamwe na arĩa akuũ? Nĩariũkĩte akoima mbĩrĩra tondũ nĩ Ngai."
 hoMA.ResEvlog5.mode = misc_kik_KE_oak.Mode5
-hoMA.ResEvlog5.text = ""
+hoMA.ResEvlog5.text = "Nĩtũrainamĩrĩra Ithe, na Mũriũ wake, na Muoyo (Roho) Mũtheru; Ũtatũ Mũtheru thĩ-inĩ wa mũthemba ũmwe na tũkĩanagĩrĩra hamwe na Aserafi: Mũtheru, Mũtheru, Mũtheru nĩwe, ũi Mwathani."
 hoMA.ResEvlog6.mode = misc_kik_KE_oak.Mode5
-hoMA.ResEvlog6.text = ""
+hoMA.ResEvlog6.text = "Nĩwaciarire Mũheani wa muoyo na nĩ ũndũ woguo, Mũirĩtu mũthingu, nĩwahonokirie Adamu kuuma mehia-inĩ, na ũkĩhe Hawa gĩkeno handũ-inĩ ha kĩeha; na ũrĩa waciarirũo nĩwe, e Ngai na Mũndũ, nĩacokirie muoyo-inĩ, ũrĩa wagwĩte kũrĩ guo."
 hoMA.ResEvlog7.mode = misc_kik_KE_oak.Mode5
 hoMA.ResEvlog7.text = prayers_kik_KE_oak.Allilouia3Doxa.text
 
