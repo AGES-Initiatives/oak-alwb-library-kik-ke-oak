@@ -8,9 +8,9 @@ KaiNyn = ""
 
 Allilouia1 = ""
 
-Allilouia3.text = "Alleluia. Alleluia. Alleluia."
+Allilouia3.text = ""
 
-Allilouia3Doxa.text = "Alleluia, Alleluia, Alleluia. Ũrokumio wee, Ngai."
+Allilouia3Doxa.text = ""
 
 DefteProskinisomen1 = ""
 
@@ -20,15 +20,15 @@ DefteProskinisomen3 = ""
 
 DiEfchonDespotou.text = ""
 
-DiEfchonPateron.text = "Ũrĩa ũtũrathimaga na agatũtheria, mũrangĩre, wee Mwathani, na ũmũhe mĩaka mĩingĩ."
+DiEfchonPateron.text = ""
 
-DoxaPatri.text = "Gũkumio kũrogĩa kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru."
+DoxaPatri.text = ""
 
 DoxaSoiChriste1 = ""
 
-DoxaSoiChriste2 = "Ũrokumio wee, ũi Ngai, wee mwĩhoko witũ, ũrokumio wee."
+DoxaSoiChriste2 = ""
 
-DoxaSoiKyrie = "Ũrokumio, wee Mwathani, ũrokumio wee."
+DoxaSoiKyrie = ""
 
 DoxaSoiKyrieP = ""
 
@@ -46,21 +46,21 @@ DoxaToPatri.text = ""
 
 EisToOnoma = ""
 
-EvlogitosOTheosImon.text = "Kũrathimwo nĩ Ngai witũ,"
+EvlogitosOTheosImon.text = ""
 
 EvlogoumenPatera.text = ""
 
 IElpisImonKyrie = ""
 
-KaiNynKaiAei.text = "Na rĩu na tene, na kinya tene na tene. Amen."
+KaiNynKaiAei.text = ""
 
 Kelefson = ""
 
-KelefsonDespota = "Mũnene, athana."
+KelefsonDespota = ""
 
 OTheosOiktirisai.text = ""
 
-PantoteNyn.text = "Hĩndĩ ciothe, rĩu na tene, na kinya tene na tene."
+PantoteNyn.text = ""
 
 Evlogison = ""
 
@@ -84,7 +84,7 @@ EleisonMeOTheos.text = ""
 
 AxionEstin.text = ""
 
-AgiosOTheos.text = "Ngai Mũtheru, Mũtheru wĩ hinya, Mũtheru ũtakuaga, ũtũiguĩre tha."
+AgiosOTheos.text = ""
 
 EpouranieVasilef.text = ""
 
@@ -109,9 +109,9 @@ PaschaDialog4.text = ""
 PaschaDialog5.text = ""
 PaschaDialog6.text = ""
 
-PaterImon.text = "Ithe witũ wĩ igũrũ; rĩĩtwa rĩaku nĩrĩtherio; ũthamaki waku ũũke; o ũrĩa wendete wee, nĩwĩkagwo gũkũ thĩ, o ta ũrĩa wĩkagwo kũu igũrũ. Tũhe ũmũthi irio ciitu cia gũtũigana; na ũtũrekere mawĩhia maitũ, o ta ũrĩa ithuĩ tũrekagĩra arĩa matwĩhagia; na ndũgatũtware magerio-inĩ, no kũhonokia ũtũhonokie kuuma ũũru-inĩ."
+PaterImon.text = ""
 
-Pistevo.text = "Nĩnjĩtĩkitie Ngai ũmwe, Ithe, mwene hinya, mũũmbi wa igũrũ na thĩ, na wa indo ciothe cionekaga na itonekaga. Na ngetĩkia Mwathani ũmwe, Jesu Kristo, Mũriũ wa Ngai wa mũmwe, ũrĩa waciarirũo nĩ Ithe mbere ya mĩndĩ na mĩndĩ. Ũtheri uumĩte ũtheri, Ngai wa ma uumĩte Ngai wa ma, ũrĩa waciarirũo na tikũmbwo ombirũo, ningĩ mũthemba wake na wa Ithe nĩ mũthemba ũmwe kũna, nacio indo ciothe ciombirũo nĩwe. Ũrĩa waikũrũkĩre akiuma igũrũ nĩ ũndũ witũ andũ a thĩ na nĩ ũndũ wa ũhonokio witũ, akĩgĩa na mwĩrĩ, agiciarũo nĩ mũirĩtu mũtheru Maria na ũndũ wa hinya wa Muoyo (Roho) Mũtheru, agĩtuĩka mũndũ. Na ningĩ akĩambwo mũtĩ igũrũ nĩ ũndũ witũ, hĩndĩ ya Pontio Pilato, akĩnyarirwo, agĩthikwo. Na mũthenya wa ĩtatũ akĩriũka a ta ũrĩa kwandĩkĩtwo maandĩko-inĩ. Akĩambata igũrũ, na aikaire guoko-inĩ kwa ũrĩo gwa Ithe. Na nĩagoka rĩngĩ na ũkumio, acirithie arĩa me muoyo na arĩa makuĩte, naguo ũthamaki wake ndũgathira. Na nĩnjĩtĩkitie Muoyo (Roho) Mũtheru, Mwathani, Mũheani wa muoyo, ũrĩa uumaga kũrĩ Ithe, na ũrĩa hamwe na Ithe na Mũriũ mainamagĩrĩrũo, magĩkumagio, na ũrĩa waaririe na tũnua twa Anabii. Na nĩnjĩtĩkitie Kanitha (Ekklesia) ĩmwe, theru, katholiki (ya thĩ oothe), na ya Atũmwo. Na nĩngumbũra ũbatithio ũmwe wa kweheria mehia. Na nĩnjetereire kũriũka kwa akuũ. Na muoyo ũrĩa ũgooka wa tene na tene. Amen."
+Pistevo.text = ""
 
 SoulSaturday.text = ""
 
@@ -137,19 +137,19 @@ fbPresveiaisKyrieTonAgion = ""
 
 enarxis01 = ""
 
-enarxis02 = "Kũrathimwo ni ũthamaki wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
+enarxis02 = ""
 
 enarxis03 = ""
 
-pet00 = "Rekei tũhoe Mwathani."
+pet00 = ""
 
-pet01 = "Twĩna thayũ, rekei tũhoe Mwathani." // Great Litany
+pet01 = "" // Great Litany
 
-pet02 = "Nĩ ũndũ wa thayũ wa kuuma igũrũ na ũhonokio wa mĩoyo iitũ, rekei tũhoe Mwathani."
+pet02 = ""
 
-pet03 = "Nĩ ũndũ wa thayũ wa thĩ yoothe, na nĩ ũndũ wa wĩhandi mwega wa Makanitha matheru ma Ngai, na nĩ ũndũ wocokanĩrĩria wa andũ oothe, rekei tũhoe Mwathani."
+pet03 = ""
 
-pet04 = "Nĩ ũndũ wa nyũmba ĩno theru, na nĩ ũndũ wa arĩa matonyaga yo mena wĩtĩkio, gĩtĩyo na wĩtigĩri wa Ngai, rekei tũhoe Mwathani."
+pet04 = ""
 
 pet04alt1.title = ""
 pet04alt1 = ""
@@ -159,7 +159,7 @@ pet04alt2 = ""
 
 pet05 = ""
 
-pet06 = "Nĩ ũndũ wa Mũmbicobu witũ mũnene (rĩĩtwa), o na arathimithia na aramati aitũ wira-inĩ wa Kristo, na arĩa aamũre, na andũ oothe, rekei tũhoe Mwathani."
+pet06 = ""
 
 pet06a = "" // supplement with client specific rank and name
 
@@ -167,31 +167,31 @@ pet06b = ""
 
 pet07L = ""
 
-pet07S = "Nĩ ũndũ wa Bũrũri ũyũ witũ, na mũthamaki (rĩĩtwa) na atongoria aguo, na mbũtũ ciitũ cia ita, cia maĩ-inĩ, o na cia rĩera-inĩ, na cia thĩ nyũmũ, rekei tũhoe Mwathani."
+pet07S = ""
 
 pet07Sa = ""
 
 pet08 = ""
 
-pet08alt = "Nĩ ũndũ wa itũũra rĩrĩ, na matũũra marĩa mangĩ moothe, na mabũrũri moothe, na nĩ ũndũ wa arĩa metĩkĩtie matũũraga thĩ-inĩ wamo, rekei tũhoe Mwathani."
+pet08alt = ""
 
-pet09 = "Nĩ ũndũ wa imera iria njega, na nĩ ũndũ wa bũthi na thayũ wa mahinda moothe, rekei tũhoe Mwathani."
+pet09 = ""
 
-pet10 = "Nĩ ũndũ wa arĩa maragerera thĩ nyũmũ kana maĩ-inĩ, kana rĩera-inĩ, na nĩ ũndũ wa arĩa arũaru, nĩ ũndũ wa arĩa marathĩnĩka, nĩ ũndũ wa arĩa matahĩtwo, na nĩ ũndũ wa kũhonokio kwao, rekei tũhoe Mwathani."
+pet10 = ""
 
-pet11 = "Nĩ ũndũ wa gũtũhonokia kuuma mathĩna-inĩ moothe, marakara, mogwati na mabata, rekei tũhoe Mwathani."
+pet11 = ""
 
-pet12 = "Tũteithie, tũhonokie, tũiguĩre tha na ũtũgitĩre ithuĩ, wee Ngai, kũhĩtũkĩra ũtũgĩ-inĩ waku."
+pet12 = ""
 
-pet13 = "Tũririkane Mũciari wa Ngai (Theotokos), mũtheru mũrathime na mũkumie Mũirĩtu mũthingu na atũire e Mũtheru Maria, hamwe na Atheru oothe, rekei twĩrutĩre ithuĩ, o mũndũ na ũrĩa, na mĩoyo iitũ yoothe, kũrĩ Kristo Ngai witũ."
+pet13 = ""
 
-pet14 = "Rĩngĩ na rĩngĩ thĩ-inĩ wa thayũ, rekei tũhoe Mwathani." // Short Litany
+pet14 = "" // Short Litany
 
-pet15 = "Rekei tuuge na mĩoyo iitũ na meciiria maitũ, rekei tuuge." // Ektenia
+pet15 = "" // Ektenia
 
-pet16 = "Mwathani mwene hinya, Ngai wa maithe maitũ, nĩtwakũhoya wee, thikĩrĩria na ũtũiguĩre tha."
+pet16 = ""
 
-pet17 = "Tũiguĩre that ithuĩ, ũi Ngai, kũringana na tha ciaku nyingĩ, nĩtwakũhoya wee, thikĩrĩria na ũtũiguĩre tha."
+pet17 = ""
 
 pet18 = ""
 
@@ -215,9 +215,9 @@ pet21p = ""
 
 pet22 = ""
 
-pet23 = "Makĩria nĩtwakũhoya nĩ ũndũ wa arĩa marehage matunda na makaruta wĩra mwega, thĩ-inĩ wa kanitha ĩno theru na ya gĩtĩyo, na nĩ ũndũ wa arĩa marutaga wĩra wa ũtungati, na aini, na andũ arĩa me hakuhĩ arĩa metereire momĩrĩirie mena mwĩhoko waku mũnene wa tha nyingĩ."
+pet23 = ""
 
-pet24 = "Rekei tũrĩkie mahoya maitũ kũrĩ Mwathani." // Complementary
+pet24 = "" // Complementary
 
 pet24v = ""
 
@@ -225,21 +225,21 @@ pet24m = ""
 
 pet25v = ""
 
-pet25m = "Nĩ ũndũ wa mũthenya ũyũ woothe ũtuĩke mwega, mũtheru, wĩ thayũ, na ũtarĩ na wĩhia, rekei tũũrie Mwathani."
+pet25m = ""
 
-pet26 = "Nĩ ũndũ wa mũraika wa thayũ, mũtongoria mwĩtĩkia, na mũrangĩri wa mĩoyo iitũ, o na mĩĩrĩ iitũ, rekei tũũrie Mwathani."
+pet26 = ""
 
-pet27 = "Nĩ ũndũ wa woheri na gũthengerio kwa mawĩhia na maũũru maitũ, rekei tũũrie Mwathani."
+pet27 = ""
 
-pet28 = "Nĩ ũndũ wa indo ciothe iria njega, na ii na ũmithio harĩ mĩoyo-inĩ iitũ, na nĩ ũndũ wa thayũ wa thĩ yoothe, rekei tũũrie Mwathani."
+pet28 = ""
 
-pet29 = "Na nĩguo tũhote kũrĩkia ihinda rĩrĩa rĩtigaru rĩa mĩoyo iitũ twĩna thayũ na wĩriro, rekei tũũrie Mwathani."
+pet29 = ""
 
-pet30 = "Na nĩguo mĩtũũrĩre iitũ ya kũrigĩrĩa ĩkorũo ĩ ya ũkristiano, ĩtarĩ na ruo, ũcuuke na ĩĩna thayũ; na kwĩrigĩrĩria kwega mbere ya ũgwati wa cira ũrĩa ũgaikarĩrũo gĩtĩ nĩ Kristo, rekei tũũrie Mwathani."
+pet30 = ""
 
-pet31 = "Thayũ ũrogĩa na inyuĩ."
+pet31 = ""
 
-pet32 = "Rekei tũinamie mĩtwe iitũ mbere ya Mwathani."
+pet32 = ""
 
 pet33 = "" // Lity
 
@@ -249,7 +249,7 @@ pet35 = ""
 
 pet36 = ""
 
-pet37 = "Kĩrathimo na tha cia Mwathani ciũke igũrũ riitũ, kũhĩtũkĩra wega-inĩ mũtheru na uuma-andũ wake, hĩndĩ ciothe, rĩu na tene, na kinya tene na tene." // Dismissal
+pet37 = "" // Dismissal
 
 petBap01 = ""
 
@@ -473,33 +473,33 @@ sup13 = ""
 
 sup14 = ""
 
-sup15 = ""
+sup15 = "na ma-atheru oothe;"
 
-sup99 = ""
+sup99 = "nĩtwagũthaitha, wee Mwathani wiki mũigua tha, ũtũthikĩrĩrie ithuĩ ehia arĩa tũrakũhoya na ũtũiguĩre tha."
 
-res01 = "Mwathani, igua tha."
+res01 = ""
 
-res02 = "Ĩtĩkĩra, ũi Mwathani."
+res02 = ""
 
-res03 = "Kũrĩ wee, Mwathani."
+res03 = ""
 
-res04 = "Amen."
+res04 = ""
 
-res05 = "O hamwe na muoyo waku."
+res05 = ""
 
-res06 = "Mwathani, igua tha. Mwathani, igua tha. Mwathani, igua tha."
+res06 = ""
 
 res07 = ""
 
-res08 = "Mũnene, rathima."
+res08 = ""
 
 res09 = ""
 
-res10 = "Amen. Amen. Amen."
+res10 = ""
 
 res12 = ""
 
-res13 = "Mũnene, rathima."
+res13 = ""
 
 res14 = ""
 
@@ -507,13 +507,13 @@ res15 = ""
 
 res16 = ""
 
-res01p = "Mwathani, igua tha."
+res01p = ""
 
 res02p = ""
 
-res03p = "Kũrĩ wee, Mwathani."
+res03p = ""
 
-res04p = "Amen."
+res04p = ""
 
 res05p = ""
 
@@ -537,11 +537,11 @@ res15p = ""
 
 res16p = ""
 
-exc01 = "Nĩ ũndũ ũkumio wĩ kũrĩ Wee, na gũtĩyo, na kũgoocwo, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
+exc01 = ""
 
 exc01a = ""
 
-exc02 = "Tondũ hinya nĩ waku, na ũthamaki, na ũhoti, na ũkumio, wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
+exc02 = ""
 
 exc03 = ""
 
@@ -551,13 +551,13 @@ exc05 = ""
 
 exc05a = "" // split exclamation for Trisagios Hymn at Liturgy
 
-exc05b = "Na kinya tene na tene."
+exc05b = ""
 
 exc06 = ""
 
 exc07 = ""
 
-exc07a = "Kũhĩtũkĩra wega-inĩ na tha-inĩ na uuma-andũ, wa Mũrũguo waku wa mũmwe, ũrĩa wee mũrathimagũo hamwe nake, na hamwe na Muoyo (Roho) waku Mũtheru mũno, na mwega na mũheani wa muoyo, rĩu na tene, na kinya tene na tene."
+exc07a = ""
 
 exc07b = ""
 
@@ -569,7 +569,7 @@ exc09 = ""
 
 exc10 = ""
 
-exc11 = "Tondũ wĩ Ngai wĩ tha na muuma-andũ, na kũrĩ we nĩtũgũkũhe ũkomio, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
+exc11 = ""
 
 exc11a = ""
 
@@ -585,19 +585,19 @@ exc16 = ""
 
 exc16a = ""
 
-exc17 = "Ũũgĩ."
+exc17 = ""
 
-exc18 = "Rũgamai, tũthikĩrĩrie."
+exc18 = ""
 
-exc19 = "Rekei tũthikĩrĩrie."
+exc19 = ""
 
-exc20 = "Nĩ ũndũ ũthamaki ni waku, o na hinya, o na kũgoocwo, wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
+exc20 = ""
 
 exc22 = ""
 
 exc23 = ""
 
-exc24 = "Tondũ wee nĩwe mũtheria witũ, na kũrĩ wee nĩtũgũkũhe ũkumio, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
+exc24 = ""
 
 exc25 = ""
 
@@ -613,17 +613,17 @@ epi01a = "" // leave blank in Greek
 
 epi01b = ""
 
-epi02 = "Thayũ ũrogĩa nawe wathoma, na kũrĩ andũ oothe."
+epi02 = ""
 
 gos01 = ""
 
-gos02 = "Tũthikĩrĩrie ũhoro mwega wa Evangelio (Injiri) theru."
+gos02 = ""
 
 gos03a = ""
 
 gos03b = ""
 
-gos04 = "Thayũ ũrogĩa nawe wathoma Ũhoro mwega."
+gos04 = ""
 
 verse_Angels.text = ""
 

@@ -21,7 +21,7 @@ cl.bishop2.name_c = ""
 cl.bishop2.name_p = ""
 cl.bishop2.fimi.text = ""
 
-cl.localpatronsaint1.supplication = ""
+cl.localpatronsaint1.supplication = "na ma-mũtheru (wa kanitha—rĩĩtwa);"
 cl.localpatronsaint1.dismissal = ""
 cl.localpatronsaint1.greatcompline = ""
 
