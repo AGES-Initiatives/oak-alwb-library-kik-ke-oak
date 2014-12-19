@@ -1,0 +1,438 @@
+A_Resource_Whose_Name = tr.d050_kik_KE_oak
+
+trCommemoration.text = "" // full title of day
+trShortCommemoration1.text = ""
+trInsert1 = "" // for use in petitions and dismissal
+trInsert2 = "na ma-mũtheru/atheru (a mũthenya—rĩĩtwa—rora Kalenda)," // for use in petitions and dismissal
+trNote.text = ""
+trDismissal = dismissals_kik_KE_oak.dis00.resurrection
+
+trVE.Stichera01.mode = misc_kik_KE_oak.Mode8
+trVE.Stichera01.melody = he.a.m8_kik_KE_oak.OTouParadoxou.name
+trVE.Stichera01.text = ""
+
+trVE.Stichera02.mode = misc_kik_KE_oak.Mode8
+trVE.Stichera02.melody = he.a.m8_kik_KE_oak.OTouParadoxou.name
+trVE.Stichera02.text = ""
+
+trVE.Stichera03.mode = misc_kik_KE_oak.Mode8
+trVE.Stichera03.melody = he.a.m8_kik_KE_oak.OTouParadoxou.name
+trVE.Stichera03.text = ""
+
+trVE.SticGlory.mode = misc_kik_KE_oak.Mode5
+trVE.SticGlory.melody = misc_kik_KE_oak.Idiomelon
+trVE.SticGlory.text = ""
+
+trVE.AposGlory.mode = misc_kik_KE_oak.Mode2
+trVE.AposGlory.melody = misc_kik_KE_oak.Idiomelon
+trVE.AposGlory.text = ""
+
+trVE.AposTheotokion.mode = misc_kik_KE_oak.Mode2
+trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.text = oc.m2.d1_kik_KE_oak.ocVE.AposTheotokion.text
+
+trVE.Apolytikion1.mode = misc_kik_KE_oak.Mode8
+trVE.Apolytikion1.melody = he.ga_kik_KE_oak.TaisTonDakryonSou.name
+trVE.GeneralApolytikion1.name = ""
+trVE.Apolytikion1.text = "" // for media
+
+trVE.ApolTheotokion.mode = misc_kik_KE_oak.Mode8
+trVE.ApolTheotokion.melody = ""
+trVE.ApolTheotokion.text = oc.m8.d1_kik_KE_oak.ocVE.ApolTheotokionVM.text
+
+trMA.PostGospelGlory.mode = misc_kik_KE_oak.Mode8
+trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.text = tr.d001_kik_KE_oak.trMA.PostGospelGlory.text
+
+trMA.PostGospelBoth.mode = misc_kik_KE_oak.Mode8
+trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.text = tr.d001_kik_KE_oak.trMA.PostGospelBoth.text
+
+trMA.PostGospelIdiomelon.mode = misc_kik_KE_oak.Mode6
+trMA.PostGospelIdiomelon.melody = ""
+trMA.PostGospelIdiomelon.text = tr.d001_kik_KE_oak.trMA.PostGospelIdiomelon.text
+
+trMA.C2Poet = ""
+
+trMA.Ode1C11.ode = misc_kik_KE_oak.Ode1
+trMA.Ode1C11.mode = misc_kik_KE_oak.Mode5
+trMA.Ode1C11.melody = he.h.m5_kik_KE_oak.ToSotiriTheo.name
+trMA.Ode1C11.text = ""
+
+trMA.Ode1C12.ode = misc_kik_KE_oak.Ode1
+trMA.Ode1C12.mode = misc_kik_KE_oak.Mode5
+trMA.Ode1C12.melody = he.h.m5_kik_KE_oak.ToSotiriTheo.name
+trMA.Ode1C12.text = ""
+
+trMA.Ode1C13.ode = misc_kik_KE_oak.Ode1
+trMA.Ode1C13.mode = misc_kik_KE_oak.Mode5
+trMA.Ode1C13.melody = he.h.m5_kik_KE_oak.ToSotiriTheo.name
+trMA.Ode1C13.text = ""
+
+trMA.Ode1C1T.ode = misc_kik_KE_oak.Ode1
+trMA.Ode1C1T.mode = misc_kik_KE_oak.Mode5
+trMA.Ode1C1T.melody = he.h.m5_kik_KE_oak.ToSotiriTheo.name
+trMA.Ode1C1T.text = ""
+
+trMA.Ode1C21.ode = misc_kik_KE_oak.Ode1
+trMA.Ode1C21.mode = misc_kik_KE_oak.Mode8
+trMA.Ode1C21.melody = he.h.m8_kik_KE_oak.YgranDiodefsas.name
+trMA.Ode1C21.text = ""
+
+trMA.Ode1C22.ode = misc_kik_KE_oak.Ode1
+trMA.Ode1C22.mode = misc_kik_KE_oak.Mode8
+trMA.Ode1C22.melody = he.h.m8_kik_KE_oak.YgranDiodefsas.name
+trMA.Ode1C22.text = ""
+
+trMA.Ode1C23.ode = misc_kik_KE_oak.Ode1
+trMA.Ode1C23.mode = misc_kik_KE_oak.Mode8
+trMA.Ode1C23.melody = he.h.m8_kik_KE_oak.YgranDiodefsas.name
+trMA.Ode1C23.text = ""
+
+trMA.Ode1C2T.ode = misc_kik_KE_oak.Ode1
+trMA.Ode1C2T.mode = misc_kik_KE_oak.Mode8
+trMA.Ode1C2T.melody = he.h.m8_kik_KE_oak.YgranDiodefsas.name
+trMA.Ode1C2T.text = ""
+
+trMA.Ode3C11.ode = misc_kik_KE_oak.Ode3
+trMA.Ode3C11.mode = misc_kik_KE_oak.Mode5
+trMA.Ode3C11.melody = he.h.m5_kik_KE_oak.StereosonImasOTheos.name
+trMA.Ode3C11.text = ""
+
+trMA.Ode3C12.ode = misc_kik_KE_oak.Ode3
+trMA.Ode3C12.mode = misc_kik_KE_oak.Mode5
+trMA.Ode3C12.melody = he.h.m5_kik_KE_oak.StereosonImasOTheos.name
+trMA.Ode3C12.text = ""
+
+trMA.Ode3C13.ode = misc_kik_KE_oak.Ode3
+trMA.Ode3C13.mode = misc_kik_KE_oak.Mode5
+trMA.Ode3C13.melody = he.h.m5_kik_KE_oak.StereosonImasOTheos.name
+trMA.Ode3C13.text = ""
+
+trMA.Ode3C1T.ode = misc_kik_KE_oak.Ode3
+trMA.Ode3C1T.mode = misc_kik_KE_oak.Mode5
+trMA.Ode3C1T.melody = he.h.m5_kik_KE_oak.StereosonImasOTheos.name
+trMA.Ode3C1T.text = ""
+
+trMA.Ode3C21.ode = misc_kik_KE_oak.Ode3
+trMA.Ode3C21.mode = misc_kik_KE_oak.Mode8
+trMA.Ode3C21.melody = he.h.m8_kik_KE_oak.SyEiToStereoma.name
+trMA.Ode3C21.text = ""
+
+trMA.Ode3C22.ode = misc_kik_KE_oak.Ode3
+trMA.Ode3C22.mode = misc_kik_KE_oak.Mode8
+trMA.Ode3C22.melody = he.h.m8_kik_KE_oak.SyEiToStereoma.name
+trMA.Ode3C22.text = ""
+
+trMA.Ode3C23.ode = misc_kik_KE_oak.Ode3
+trMA.Ode3C23.mode = misc_kik_KE_oak.Mode8
+trMA.Ode3C23.melody = he.h.m8_kik_KE_oak.SyEiToStereoma.name
+trMA.Ode3C23.text = ""
+
+trMA.Ode3C2T.ode = misc_kik_KE_oak.Ode3
+trMA.Ode3C2T.mode = misc_kik_KE_oak.Mode8
+trMA.Ode3C2T.melody = he.h.m8_kik_KE_oak.SyEiToStereoma.name
+trMA.Ode3C2T.text = ""
+
+trMA.Ode3Kathisma1.mode = misc_kik_KE_oak.Mode5
+trMA.Ode3Kathisma1.melody = ""
+trMA.Ode3Kathisma1.text = ""
+
+trMA.Ode3Kathisma2.mode = misc_kik_KE_oak.Mode4
+trMA.Ode3Kathisma2.melody = he.a.m4_kik_KE_oak.OYpsotheisEnToStavro.name
+trMA.Ode3Kathisma2.text = ""
+
+trMA.Ode3Kathisma3.mode = misc_kik_KE_oak.Mode4
+trMA.Ode3Kathisma3.melody = he.a.m4_kik_KE_oak.OYpsotheisEnToStavro.name
+trMA.Ode3Kathisma3.text = ""
+
+trMA.Ode4C11.ode = misc_kik_KE_oak.Ode4
+trMA.Ode4C11.mode = misc_kik_KE_oak.Mode5
+trMA.Ode4C11.melody = he.h.m5_kik_KE_oak.AkikoaKyrieTinEkTouTafou.name
+trMA.Ode4C11.text = ""
+
+trMA.Ode4C12.ode = misc_kik_KE_oak.Ode4
+trMA.Ode4C12.mode = misc_kik_KE_oak.Mode5
+trMA.Ode4C12.melody = he.h.m5_kik_KE_oak.AkikoaKyrieTinEkTouTafou.name
+trMA.Ode4C12.text = ""
+
+trMA.Ode4C13.ode = misc_kik_KE_oak.Ode4
+trMA.Ode4C13.mode = misc_kik_KE_oak.Mode5
+trMA.Ode4C13.melody = he.h.m5_kik_KE_oak.AkikoaKyrieTinEkTouTafou.name
+trMA.Ode4C13.text = ""
+
+trMA.Ode4C1T.ode = misc_kik_KE_oak.Ode4
+trMA.Ode4C1T.mode = misc_kik_KE_oak.Mode5
+trMA.Ode4C1T.melody = he.h.m5_kik_KE_oak.AkikoaKyrieTinEkTouTafou.name
+trMA.Ode4C1T.text = ""
+
+trMA.Ode4C21.ode = misc_kik_KE_oak.Ode4
+trMA.Ode4C21.mode = misc_kik_KE_oak.Mode8
+trMA.Ode4C21.melody = he.h.m8_kik_KE_oak.EisakikoaKyrie.name
+trMA.Ode4C21.text = ""
+
+trMA.Ode4C22.ode = misc_kik_KE_oak.Ode4
+trMA.Ode4C22.mode = misc_kik_KE_oak.Mode8
+trMA.Ode4C22.melody = he.h.m8_kik_KE_oak.EisakikoaKyrie.name
+trMA.Ode4C22.text = ""
+
+trMA.Ode4C23.ode = misc_kik_KE_oak.Ode4
+trMA.Ode4C23.mode = misc_kik_KE_oak.Mode8
+trMA.Ode4C23.melody = he.h.m8_kik_KE_oak.EisakikoaKyrie.name
+trMA.Ode4C23.text = ""
+
+trMA.Ode4C2T.ode = misc_kik_KE_oak.Ode4
+trMA.Ode4C2T.mode = misc_kik_KE_oak.Mode8
+trMA.Ode4C2T.melody = he.h.m8_kik_KE_oak.EisakikoaKyrie.name
+trMA.Ode4C2T.text = ""
+
+trMA.Ode5C11.ode = misc_kik_KE_oak.Ode5
+trMA.Ode5C11.mode = misc_kik_KE_oak.Mode5
+trMA.Ode5C11.melody = he.h.m5_kik_KE_oak.EkNyktosOrthrizontes.name
+trMA.Ode5C11.text = ""
+
+trMA.Ode5C12.ode = misc_kik_KE_oak.Ode5
+trMA.Ode5C12.mode = misc_kik_KE_oak.Mode5
+trMA.Ode5C12.melody = he.h.m5_kik_KE_oak.EkNyktosOrthrizontes.name
+trMA.Ode5C12.text = ""
+
+trMA.Ode5C13.ode = misc_kik_KE_oak.Ode5
+trMA.Ode5C13.mode = misc_kik_KE_oak.Mode5
+trMA.Ode5C13.melody = he.h.m5_kik_KE_oak.EkNyktosOrthrizontes.name
+trMA.Ode5C13.text = ""
+
+trMA.Ode5C1T.ode = misc_kik_KE_oak.Ode5
+trMA.Ode5C1T.mode = misc_kik_KE_oak.Mode5
+trMA.Ode5C1T.melody = he.h.m5_kik_KE_oak.EkNyktosOrthrizontes.name
+trMA.Ode5C1T.text = ""
+
+trMA.Ode5C21.ode = misc_kik_KE_oak.Ode5
+trMA.Ode5C21.mode = misc_kik_KE_oak.Mode8
+trMA.Ode5C21.melody = he.h.m8_kik_KE_oak.InaTiMeAposo.name
+trMA.Ode5C21.text = ""
+
+trMA.Ode5C22.ode = misc_kik_KE_oak.Ode5
+trMA.Ode5C22.mode = misc_kik_KE_oak.Mode8
+trMA.Ode5C22.melody = he.h.m8_kik_KE_oak.InaTiMeAposo.name
+trMA.Ode5C22.text = ""
+
+trMA.Ode5C23.ode = misc_kik_KE_oak.Ode5
+trMA.Ode5C23.mode = misc_kik_KE_oak.Mode8
+trMA.Ode5C23.melody = he.h.m8_kik_KE_oak.InaTiMeAposo.name
+trMA.Ode5C23.text = ""
+
+trMA.Ode5C2T.ode = misc_kik_KE_oak.Ode5
+trMA.Ode5C2T.mode = misc_kik_KE_oak.Mode8
+trMA.Ode5C2T.melody = he.h.m8_kik_KE_oak.InaTiMeAposo.name
+trMA.Ode5C2T.text = ""
+
+trMA.Ode6C11.ode = misc_kik_KE_oak.Ode6
+trMA.Ode6C11.mode = misc_kik_KE_oak.Mode5
+trMA.Ode6C11.melody = he.h.m5_kik_KE_oak.EkykloseMeAvyssos.name
+trMA.Ode6C11.text = ""
+
+trMA.Ode6C12.ode = misc_kik_KE_oak.Ode6
+trMA.Ode6C12.mode = misc_kik_KE_oak.Mode5
+trMA.Ode6C12.melody = he.h.m5_kik_KE_oak.EkykloseMeAvyssos.name
+trMA.Ode6C12.text = ""
+
+trMA.Ode6C13.ode = misc_kik_KE_oak.Ode6
+trMA.Ode6C13.mode = misc_kik_KE_oak.Mode5
+trMA.Ode6C13.melody = he.h.m5_kik_KE_oak.EkykloseMeAvyssos.name
+trMA.Ode6C13.text = ""
+
+trMA.Ode6C1T.ode = misc_kik_KE_oak.Ode6
+trMA.Ode6C1T.mode = misc_kik_KE_oak.Mode5
+trMA.Ode6C1T.melody = he.h.m5_kik_KE_oak.EkykloseMeAvyssos.name
+trMA.Ode6C1T.text = ""
+
+trMA.Ode6C21.ode = misc_kik_KE_oak.Ode6
+trMA.Ode6C21.mode = misc_kik_KE_oak.Mode8
+trMA.Ode6C21.melody = he.h.m8_kik_KE_oak.IlasthitiMoiSotir.name
+trMA.Ode6C21.text = ""
+
+trMA.Ode6C22.ode = misc_kik_KE_oak.Ode6
+trMA.Ode6C22.mode = misc_kik_KE_oak.Mode8
+trMA.Ode6C22.melody = he.h.m8_kik_KE_oak.IlasthitiMoiSotir.name
+trMA.Ode6C22.text = ""
+
+trMA.Ode6C23.ode = misc_kik_KE_oak.Ode6
+trMA.Ode6C23.mode = misc_kik_KE_oak.Mode8
+trMA.Ode6C23.melody = he.h.m8_kik_KE_oak.IlasthitiMoiSotir.name
+trMA.Ode6C23.text = ""
+
+trMA.Ode6C2T.ode = misc_kik_KE_oak.Ode6
+trMA.Ode6C2T.mode = misc_kik_KE_oak.Mode8
+trMA.Ode6C2T.melody = he.h.m8_kik_KE_oak.IlasthitiMoiSotir.name
+trMA.Ode6C2T.text = ""
+
+trMA.Kontakion1.mode = misc_kik_KE_oak.Mode4
+trMA.Kontakion1.melody = he.a.m4_kik_KE_oak.EpefanisSimeron.name
+trMA.Kontakion1.text = ""
+
+trMA.Oikos1.text = ""
+
+trMA.Synaxarion1.Com = ""
+trMA.Synaxarion1.Ver1 = ""
+trMA.Synaxarion1.Ver2 = ""
+trMA.Synaxarion1.Ver3 = ""
+trMA.Synaxarion1.Ver4 = ""
+
+trMA.Synaxarion1.Nar = ""
+
+trMA.Synaxarion.LastLine = ""
+
+trMA.Ode7C11.ode = misc_kik_KE_oak.Ode7
+trMA.Ode7C11.mode = misc_kik_KE_oak.Mode5
+trMA.Ode7C11.melody = he.h.m5_kik_KE_oak.OYperypsoumenos.name
+trMA.Ode7C11.text = ""
+
+trMA.Ode7C12.ode = misc_kik_KE_oak.Ode7
+trMA.Ode7C12.mode = misc_kik_KE_oak.Mode5
+trMA.Ode7C12.melody = he.h.m5_kik_KE_oak.OYperypsoumenos.name
+trMA.Ode7C12.text = ""
+
+trMA.Ode7C13.ode = misc_kik_KE_oak.Ode7
+trMA.Ode7C13.mode = misc_kik_KE_oak.Mode5
+trMA.Ode7C13.melody = he.h.m5_kik_KE_oak.OYperypsoumenos.name
+trMA.Ode7C13.text = ""
+
+trMA.Ode7C1T.ode = misc_kik_KE_oak.Ode7
+trMA.Ode7C1T.mode = misc_kik_KE_oak.Mode5
+trMA.Ode7C1T.melody = he.h.m5_kik_KE_oak.OYperypsoumenos.name
+trMA.Ode7C1T.text = ""
+
+trMA.Ode7C21.ode = misc_kik_KE_oak.Ode7
+trMA.Ode7C21.mode = misc_kik_KE_oak.Mode8
+trMA.Ode7C21.melody = he.h.m8_kik_KE_oak.OiEkTisIoudaias.name
+trMA.Ode7C21.text = ""
+
+trMA.Ode7C22.ode = misc_kik_KE_oak.Ode7
+trMA.Ode7C22.mode = misc_kik_KE_oak.Mode8
+trMA.Ode7C22.melody = he.h.m8_kik_KE_oak.OiEkTisIoudaias.name
+trMA.Ode7C22.text = ""
+
+trMA.Ode7C23.ode = misc_kik_KE_oak.Ode7
+trMA.Ode7C23.mode = misc_kik_KE_oak.Mode8
+trMA.Ode7C23.melody = he.h.m8_kik_KE_oak.OiEkTisIoudaias.name
+trMA.Ode7C23.text = ""
+
+trMA.Ode7C2T.ode = misc_kik_KE_oak.Ode7
+trMA.Ode7C2T.mode = misc_kik_KE_oak.Mode8
+trMA.Ode7C2T.melody = he.h.m8_kik_KE_oak.OiEkTisIoudaias.name
+trMA.Ode7C2T.text = ""
+
+trMA.Ode8C11.ode = misc_kik_KE_oak.Ode8
+trMA.Ode8C11.mode = misc_kik_KE_oak.Mode5
+trMA.Ode8C11.melody = he.h.m5_kik_KE_oak.SoiToPantourgo.name
+trMA.Ode8C11.text = ""
+
+trMA.Ode8C12.ode = misc_kik_KE_oak.Ode8
+trMA.Ode8C12.mode = misc_kik_KE_oak.Mode5
+trMA.Ode8C12.melody = he.h.m5_kik_KE_oak.SoiToPantourgo.name
+trMA.Ode8C12.text = ""
+
+trMA.Ode8C13.ode = misc_kik_KE_oak.Ode8
+trMA.Ode8C13.mode = misc_kik_KE_oak.Mode5
+trMA.Ode8C13.melody = he.h.m5_kik_KE_oak.SoiToPantourgo.name
+trMA.Ode8C13.text = ""
+
+trMA.Ode8C1T.ode = misc_kik_KE_oak.Ode8
+trMA.Ode8C1T.mode = misc_kik_KE_oak.Mode5
+trMA.Ode8C1T.melody = he.h.m5_kik_KE_oak.SoiToPantourgo.name
+trMA.Ode8C1T.text = ""
+
+trMA.Ode8C21.ode = misc_kik_KE_oak.Ode8
+trMA.Ode8C21.mode = misc_kik_KE_oak.Mode8
+trMA.Ode8C21.melody = he.h.m8_kik_KE_oak.TonVasileaTonOuranon.name
+trMA.Ode8C21.text = ""
+
+trMA.Ode8C22.ode = misc_kik_KE_oak.Ode8
+trMA.Ode8C22.mode = misc_kik_KE_oak.Mode8
+trMA.Ode8C22.melody = he.h.m8_kik_KE_oak.TonVasileaTonOuranon.name
+trMA.Ode8C22.text = ""
+
+trMA.Ode8C23.ode = misc_kik_KE_oak.Ode8
+trMA.Ode8C23.mode = misc_kik_KE_oak.Mode8
+trMA.Ode8C23.melody = he.h.m8_kik_KE_oak.TonVasileaTonOuranon.name
+trMA.Ode8C23.text = ""
+
+trMA.Ode8C2T.ode = misc_kik_KE_oak.Ode8
+trMA.Ode8C2T.mode = misc_kik_KE_oak.Mode8
+trMA.Ode8C2T.melody = he.h.m8_kik_KE_oak.TonVasileaTonOuranon.name
+trMA.Ode8C2T.text = ""
+
+trMA.Ode9C11.ode = misc_kik_KE_oak.Ode9
+trMA.Ode9C11.mode = misc_kik_KE_oak.Mode5
+trMA.Ode9C11.melody = he.h.m5_kik_KE_oak.IsaiaChoreve.name
+trMA.Ode9C11.text = ""
+
+trMA.Ode9C12.ode = misc_kik_KE_oak.Ode9
+trMA.Ode9C12.mode = misc_kik_KE_oak.Mode5
+trMA.Ode9C12.melody = he.h.m5_kik_KE_oak.IsaiaChoreve.name
+trMA.Ode9C12.text = ""
+
+trMA.Ode9C13.ode = misc_kik_KE_oak.Ode9
+trMA.Ode9C13.mode = misc_kik_KE_oak.Mode5
+trMA.Ode9C13.melody = he.h.m5_kik_KE_oak.IsaiaChoreve.name
+trMA.Ode9C13.text = ""
+
+trMA.Ode9C1T.ode = misc_kik_KE_oak.Ode9
+trMA.Ode9C1T.mode = misc_kik_KE_oak.Mode5
+trMA.Ode9C1T.melody = he.h.m5_kik_KE_oak.IsaiaChoreve.name
+trMA.Ode9C1T.text = ""
+
+trMA.Ode9C21.ode = misc_kik_KE_oak.Ode9
+trMA.Ode9C21.mode = misc_kik_KE_oak.Mode8
+trMA.Ode9C21.melody = he.h.m8_kik_KE_oak.TinAgninEndoxos.name
+trMA.Ode9C21.text = ""
+
+trMA.Ode9C22.ode = misc_kik_KE_oak.Ode9
+trMA.Ode9C22.mode = misc_kik_KE_oak.Mode8
+trMA.Ode9C22.melody = he.h.m8_kik_KE_oak.TinAgninEndoxos.name
+trMA.Ode9C22.text = ""
+
+trMA.Ode9C23.ode = misc_kik_KE_oak.Ode9
+trMA.Ode9C23.mode = misc_kik_KE_oak.Mode8
+trMA.Ode9C23.melody = he.h.m8_kik_KE_oak.TinAgninEndoxos.name
+trMA.Ode9C23.text = ""
+
+trMA.Ode9C2T.ode = misc_kik_KE_oak.Ode9
+trMA.Ode9C2T.mode = misc_kik_KE_oak.Mode8
+trMA.Ode9C2T.melody = he.h.m8_kik_KE_oak.TinAgninEndoxos.name
+trMA.Ode9C2T.text = ""
+
+trMA.Exaposteilarion1.mode = misc_kik_KE_oak.Mode2
+trMA.Exaposteilarion1.melody = he.a.m2_kik_KE_oak.GynaikesAkoutisthite.name
+trMA.Exaposteilarion1.text = ""
+
+trMA.ExapTheotokion.mode = misc_kik_KE_oak.Mode2
+trMA.ExapTheotokion.melody = he.a.m2_kik_KE_oak.GynaikesAkoutisthite.name
+trMA.ExapTheotokion.text = ""
+
+trMA.Lauds1.mode = misc_kik_KE_oak.Mode8
+trMA.Lauds1.melody = he.a.m8_kik_KE_oak.OTouParadoxou.name
+trMA.Lauds1.text = trVE.Stichera01.text
+
+trMA.LaudsSundayVerse1.text = ""
+
+trMA.Lauds2.mode = misc_kik_KE_oak.Mode8
+trMA.Lauds2.melody = he.a.m8_kik_KE_oak.OTouParadoxou.name
+trMA.Lauds2.text = trVE.Stichera02.text
+
+trMA.LaudsSundayVerse2.text = ""
+
+trMA.Lauds3.mode = misc_kik_KE_oak.Mode8
+trMA.Lauds3.melody = he.a.m8_kik_KE_oak.OTouParadoxou.name
+trMA.Lauds3.text = trVE.Stichera03.text
+
+trMA.LaudsGlory.mode = misc_kik_KE_oak.Mode1
+trMA.LaudsGlory.melody = misc_kik_KE_oak.Idiomelon
+trMA.LaudsGlory.text = ""
+
+trLI.SeasonalKontakion.mode = misc_kik_KE_oak.Mode8
+trLI.SeasonalKontakion.melody = misc_kik_KE_oak.Automelon
+trLI.SeasonalKontakion.text = he.a.m8_kik_KE_oak.TiYpermacho.text
+
+trMegalynarion.text = ""
+

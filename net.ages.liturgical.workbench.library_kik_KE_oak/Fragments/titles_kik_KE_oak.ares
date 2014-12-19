@@ -18,7 +18,7 @@ Apolytikia = ""
 
 Apolytikion = ""
 
-ApolytikionAnastasimon = "Apolytikio (Rũĩmbo rũa kũrĩkia)"
+ApolytikionAnastasimon = ""
 
 Aposticha = ""
 
@@ -320,7 +320,7 @@ TaTypikaKaiOiMakarismoi = ""
 
 Theotokia = ""
 
-Theotokion = "Theotokio (Rũĩmbo rũa Mũciari wa Ngai)"
+Theotokion = ""
 
 TheotokionDogmatikon = ""
 
@@ -331,6 +331,8 @@ TisEortis = ""
 TisIndiktou = ""
 
 TisMesopentikostis = ""
+
+TisOktoichou = ""
 
 TisOsias = ""
 
@@ -411,6 +413,8 @@ TouOsiou = ""
 TouParalytou = ""
 
 TouPascha = ""
+
+TouPenticostariou = ""
 
 TouProdromou = ""
 
