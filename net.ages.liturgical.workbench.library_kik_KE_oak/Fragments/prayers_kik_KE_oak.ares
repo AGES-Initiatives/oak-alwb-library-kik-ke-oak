@@ -10,7 +10,7 @@ Allilouia1 = ""
 
 Allilouia3.text = ""
 
-Allilouia3Doxa.text = ""
+Allilouia3Doxa.text = "Alleluia, Alleluia, Alleluia. Ũrokumio wee, Ngai."
 
 DefteProskinisomen1 = ""
 
@@ -30,7 +30,7 @@ DoxaSoiChriste2 = ""
 
 DoxaSoiKyrie = ""
 
-DoxaSoiKyrieP = ""
+DoxaSoiKyrieP = "Ũrokumio, wee Mwathani, ũrokumio wee."
 
 DoxaSoiOTheos1 = ""
 
@@ -181,11 +181,11 @@ pet10 = ""
 
 pet11 = ""
 
-pet12 = ""
+pet12 = "Tũteithie, tũhonokie, tũiguĩre tha na ũtũgitĩre ithuĩ, wee Ngai, kũhĩtũkĩra ũtũgĩ-inĩ waku."
 
-pet13 = ""
+pet13 = "Tũririkane Mũciari wa Ngai (Theotokos), mũtheru mũrathime na mũkumie Mũirĩtu mũthingu na atũire e Mũtheru Maria, hamwe na Atheru oothe, rekei twĩrutĩre ithuĩ, o mũndũ na ũrĩa, na mĩoyo iitũ yoothe, kũrĩ Kristo Ngai witũ."
 
-pet14 = "" // Short Litany
+pet14 = "Rĩngĩ na rĩngĩ thĩ-inĩ wa thayũ, rekei tũhoe Mwathani." // Short Litany
 
 pet15 = "" // Ektenia
 
@@ -441,49 +441,49 @@ petWed13 = ""
 
 petWed14 = ""
 
-sup00 = ""
+sup00 = "Ũi Ngai, honokia andũ aku na ũrathime ũgai waku; ceerera thĩ yaku wĩ na tha na ũtugi; tũũgĩria rũhia rũa akristiano a Orthodox; na ũtũikũrũkĩrie utonga wa tha ciaku nyingĩ;"
 
 sup00a = ""
 
-sup01 = ""
+sup01 = "kũhĩtũkĩra mahoya-inĩ ma Mũciari wa Ngai witũ (Theotokos) ũrĩa mũtheru mũno na atũũire e mũtheru Maria;"
 
-sup02 = ""
+sup02 = "na nĩ ũndũ wa hinya wa Mũtharaba wa goro ũrĩa ũheanaga muoyo;"
 
-sup03 = ""
+sup03 = "kũhĩtũkĩra ũgitĩri-inĩ wa mahinya ma igũrũ marĩa matarĩ na mĩĩrĩ;"
 
-sup04 = ""
+sup04 = "kũhĩtũkĩra mathaithana-inĩ ma Mũnabii mũtĩĩe na mũkumie ũrĩa wokire mbere Johana Mũbatithania;"
 
-sup05 = ""
+sup05 = "na ma-Atũmwo atheru na akumie, arĩa me igweta;"
 
-sup06 = ""
+sup06 = "na ma-Maababa aitũ atheru, abicobu anene (Archbishops) na arutani a thĩ yoothe: Basilio Mũnene, Gregorio Mũrutani wa ũhoro wa Ngai, na Johana Chrysostomo (ũrĩa waaragia mĩario mĩega);"
 
-sup07 = ""
+sup07 = "Athanasio na Kirillo apatriaka a Alexandria;"
 
-sup08 = ""
+sup08 = "Nikola Mũmbicobu mũnene wa Mira ya Likia, na Spiridoni Mbicobu mũnene wa Trimitunda ya Kipuro, ariingi a ciama cia magegania;"
 
-sup09 = ""
+sup09 = "na ma-atheru anene na aira arĩa mooragirũo mena wĩtĩkio: George mũhotani, Demeterio ũrĩa mbĩrĩra yake yoimire mũtararĩko mwega, Theodoro wa Tironi na Theodoro mũnene wa mbũtũ, na Minaa mũriingi ciama,"
 
-sup10 = ""
+sup10 = "Haralambo,"
 
-sup11 = ""
+sup11 = "na Ebimia,"
 
-sup12 = ""
+sup12 = "na ma-Maababa aitũ atheru mena ũ-ngai;"
 
 sup13 = ""
 
-sup14 = ""
+sup14 = "na ma-aciari atheru akũrũ a Ngai Joakim na Anna;"
 
 sup15 = "na ma-atheru oothe;"
 
 sup99 = "nĩtwagũthaitha, wee Mwathani wiki mũigua tha, ũtũthikĩrĩrie ithuĩ ehia arĩa tũrakũhoya na ũtũiguĩre tha."
 
-res01 = ""
+res01 = "Mwathani, igua tha."
 
 res02 = ""
 
 res03 = ""
 
-res04 = ""
+res04 = "Amen."
 
 res05 = ""
 
@@ -507,13 +507,13 @@ res15 = ""
 
 res16 = ""
 
-res01p = ""
+res01p = "Mwathani, igua tha."
 
 res02p = ""
 
-res03p = ""
+res03p = "Kũrĩ wee, Mwathani."
 
-res04p = ""
+res04p = "Amen."
 
 res05p = ""
 
@@ -553,9 +553,9 @@ exc05a = "" // split exclamation for Trisagios Hymn at Liturgy
 
 exc05b = ""
 
-exc06 = ""
+exc06 = "Tondũ nĩwe mũtheru, ũi Ngai witũ, na nĩũhurũkaga gatagatĩ-inĩ ka Atheru, na nĩtwaheana gũkumio, kũrĩ wee, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
-exc07 = ""
+exc07 = "Kũhĩtũkĩra tha-inĩ na ũtugi na uuma-andũ wa Mũrũguo waku wa mũmwe, ũrĩa wee mũrathimaguo hamwe nake, na hamwe na Muoyo (Roho) Mũtheru mũno na mwega na mũheani wa muoyo, rĩu na tene, na kinya tene na tene."
 
 exc07a = ""
 
@@ -567,7 +567,7 @@ exc08 = ""
 
 exc09 = ""
 
-exc10 = ""
+exc10 = "Tondũ Ita rĩa hinya wa matu-inĩ nĩigũkũgooca wee Mwathani, na kũrĩ wee nĩtũgũkũhe ũkumio, kũrĩ Ithe, na Mũriũ na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene."
 
 exc11 = ""
 
@@ -579,7 +579,7 @@ exc13 = ""
 
 exc14 = ""
 
-exc15 = ""
+exc15 = "Rekei tũmũnenehia na nyĩmbo cia kũmũgatha Mũciari wa Ngai (Theotokos) na Nyina wa Utheri."
 
 exc16 = ""
 
@@ -615,11 +615,11 @@ epi01b = ""
 
 epi02 = ""
 
-gos01 = ""
+gos01 = "Na nĩguo tũtũĩke agĩrĩru akuigua Ũhoro mwega (Evangelio), rekei tũhoe Mwathani Ngai witũ."
 
 gos02 = ""
 
-gos03a = ""
+gos03a = "Tũgũthoma Ũhoro mwega na mũtheru wandĩkĩtwo nĩ"
 
 gos03b = ""
 
