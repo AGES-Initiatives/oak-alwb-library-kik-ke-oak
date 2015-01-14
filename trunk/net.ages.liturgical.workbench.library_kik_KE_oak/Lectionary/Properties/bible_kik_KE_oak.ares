@@ -1,7 +1,5 @@
 A_Resource_Whose_Name = bible_kik_KE_oak
 
-version.designation = ""
-
 Matthew = "" // no period after names
 Mark = ""
 Luke = ""
