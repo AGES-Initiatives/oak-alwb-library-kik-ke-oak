@@ -34,7 +34,7 @@ hoLI.EntranceHymn.text = "Ũkai, tũmũkumie na tũmũinamĩrĩre Kristo." // in
 hoLI.EntranceHymn2s.text = hoLI.Antiphon2s.text
 hoLI.EntranceHymn2w.text = hoLI.Antiphon2w.text
 
-hoLI.TrisagiosHymn.title = ""
+hoLI.TrisagiosHymn.title = "RŨĨMBO RŨA NGAI MŨTHERU"
 hoLI.TrisagiosHymn.text = "Ngai Mũtheru, Mũtheru wĩ hinya, Mũtheru ũtakuaga, ũtũiguĩre tha."
 hoLI.TrisagiosHymn1.text = ""
 hoLI.TrisagiosHymn2.text = ""
