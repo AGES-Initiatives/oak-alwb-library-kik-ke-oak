@@ -81,7 +81,7 @@ hoMA.ResEvlog.title1 = ""
 hoMA.ResEvlog.title2 = ""
 //Title Mode5
 R13 = ""
-hoMA.ResEvlogVerse.text = "Kũrathimwo nĩwe, Mwathani, nduta mawatho maku."
+hoMA.ResEvlogVerse.text = "Kũrathimwo nĩwe, Mwathani, nduta mawaatho maku."
 hoMA.ResEvlog1.mode = misc_kik_KE_oak.Mode5
 hoMA.ResEvlog1.text = "Ikundi cia araika nĩciagegire, rĩrĩa cionire atĩ nĩ ũtaranĩirio na arĩa akuũ, na nĩwaninire hinya wa gĩkuũ, wee Mũhonokia, na nĩwokĩririe Adamu e hamwe nawe, na ũkĩohora arĩa oothe naarĩ gĩkuũ-inĩ."
 hoMA.ResEvlog2.mode = misc_kik_KE_oak.Mode5
