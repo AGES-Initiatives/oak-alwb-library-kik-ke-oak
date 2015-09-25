@@ -1,0 +1,342 @@
+{'id_' : 'prayers_kik_KE_oak|Doxa', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|DoxaKaiNyn', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|KaiNyn', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|Allilouia1', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|Allilouia3|text', 'text' : 'Alleluia. Alleluia. Alleluia.'}
+{'id_' : 'prayers_kik_KE_oak|Allilouia3Doxa|text', 'text' : 'Alleluia, Alleluia, Alleluia. Ũrokumio wee, Ngai.'}
+{'id_' : 'prayers_kik_KE_oak|DefteProskinisomen1', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|DefteProskinisomen2', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|DefteProskinisomen3', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|DiEfchonDespotou|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|DiEfchonPateron|text', 'text' : 'Kũhĩtũkĩra mahoya-inĩ ma Mababa maitũ matheru, wee Mwathani Jesu Kristo Ngai witũ, igua tha na ũtũhonokie ithuĩ.'}
+{'id_' : 'prayers_kik_KE_oak|DoxaPatri|text', 'text' : 'Gũkumio kũrogia kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru.'}
+{'id_' : 'prayers_kik_KE_oak|DoxaSoiChriste1', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|DoxaSoiChriste2', 'text' : 'Ũrokumio wee, ũi Ngai, wee mwĩhoko witũ, ũrokumio wee.'}
+{'id_' : 'prayers_kik_KE_oak|DoxaSoiKyrie', 'text' : 'Ũrokumio, wee Mwathani, ũrokumio wee.'}
+{'id_' : 'prayers_kik_KE_oak|DoxaSoiKyrieP', 'text' : 'Ũrokumio, wee Mwathani, ũrokumio wee.'}
+{'id_' : 'prayers_kik_KE_oak|DoxaSoiOTheos1', 'text' : 'Ũrokumio wee Ngai.'}
+{'id_' : 'prayers_kik_KE_oak|DoxaSoiOTheosImon|text', 'text' : 'Ũrokumio wee, ũi Ngai witũ, ũrokumio wee.'}
+{'id_' : 'prayers_kik_KE_oak|DoxaTiAgiaAnastasei|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|DoxaTiMakrothymia|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|DoxaTiMakrothymiaP|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|DoxaToPatri|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|EisToOnoma', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|EvlogitosOTheosImon|text', 'text' : 'Kũrathimwo nĩ Ngai witũ,'}
+{'id_' : 'prayers_kik_KE_oak|EvlogoumenPatera|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|IElpisImonKyrie', 'text' : 'Ũi Ngai, wee mwĩhoko witũ, ũrokumio wee.'}
+{'id_' : 'prayers_kik_KE_oak|KaiNynKaiAei|text', 'text' : 'Na rĩu na tene, na kinya tene na tene. Amen.'}
+{'id_' : 'prayers_kik_KE_oak|Kelefson', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|KelefsonDespota', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|OTheosOiktirisai|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|PantoteNyn|text', 'text' : 'Hĩndĩ ciothe, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|Evlogison', 'text' : 'Mũnene, rathima.'}
+{'id_' : 'prayers_kik_KE_oak|EvlogisonP', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|EnOnomatiKyriou|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|EvlogisonThymiama|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|AgieTouTheou|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|AgiaTouTheou|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|AgioiTouTheou|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|ApostoleTouChristou|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|OsiaTouTheou|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|EleisonMeOTheos|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|AxionEstin|text', 'text' : 'Nĩ kwagĩrĩire na ma gũkũrathima wee, Mũciari wa Ngai (Theotokos), wee Mũrathime mũno, na ũtarĩ na wĩhia, na wĩ nyina wa Ngai witũ. Kũrĩ wee mwĩhokeku gũkĩra Akerubi, na ũrĩa wĩ na ũkumio mũnene ũtangĩgerekanio na wa Aserafi, ũrĩa we ũtarĩ na karema ka wĩhia, na ũrĩa waciarire Ngai Kiugo, na ũirĩtu waku ndwathũkire, wee Mũciari wa Ngai (Theotokos) wa ma, nĩtwakũnenehia.'}
+{'id_' : 'prayers_kik_KE_oak|AgiosOTheos|text', 'text' : 'Ngai Mũtheru, Mũtheru wĩ hinya, Mũtheru ũtakuaga, ũtũiguĩre tha.'}
+{'id_' : 'prayers_kik_KE_oak|EpouranieVasilef|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|KyrieKaiDespota1|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|KyrieKaiDespota2|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|KyrieKaiDespota3|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|KyrieKaiDespota4|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|OEnPantiKairo|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|OOnEvlogitos|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|PanagiaTrias|text', 'text' : 'Ũi Ũtatũ Mũtheru, ũtũiguire tha; ũi Mwathani, tuohere mehia maitũ; ũi Mũnene, tũrekere mahĩtia maitũ; ũi Mũtheru, tũceere na ũtũhonie mĩrimũ iitũ, tondũ wa rĩĩtwa rĩaku.'}
+{'id_' : 'prayers_kik_KE_oak|PaschaDialog1|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|PaschaDialog2|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|PaschaDialog3|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|PaschaDialog4|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|PaschaDialog5|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|PaschaDialog6|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|PaterImon|text', 'text' : 'Ithe witũ wĩ igũrũ; rĩĩtwa rĩaku nĩrĩtherio; ũthamaki waku ũũke; o ũrĩa wendete wee, nĩwĩkagwo gũkũ thĩ, o ta ũrĩa wĩkagwo kũu igũrũ. Tũhe ũmũthi irio ciitu cia gũtũigana; na ũtũrekere mawĩhia maitũ, o ta ũrĩa ithuĩ tũrekagĩra arĩa matwĩhagia; na ndũgatũtware magerio-inĩ, no kũhonokia ũtũhonokie kuuma ũũru-inĩ.'}
+{'id_' : 'prayers_kik_KE_oak|Pistevo|text', 'text' : 'Nĩnjĩtĩkitie Ngai ũmwe, Ithe, mwene hinya, mũũmbi wa igũrũ na thĩ, na wa indo ciothe cionekaga na itonekaga. Na ngetĩkia Mwathani ũmwe, Jesu Kristo, Mũriũ wa Ngai wa mũmwe, ũrĩa waciarirũo nĩ Ithe mbere ya mĩndĩ na mĩndĩ. Ũtheri uumĩte ũtheri, Ngai wa ma uumĩte Ngai wa ma, ũrĩa waciarirũo na tikũmbwo ombirũo, ningĩ mũthemba wake na wa Ithe nĩ mũthemba ũmwe kũna, nacio indo ciothe ciombirũo nĩwe. Ũrĩa waikũrũkĩre akiuma igũrũ nĩ ũndũ witũ andũ a thĩ na nĩ ũndũ wa ũhonokio witũ, akĩgĩa na mwĩrĩ, agiciarũo nĩ mũirĩtu mũtheru Maria na ũndũ wa hinya wa Muoyo (Roho) Mũtheru, agĩtuĩka mũndũ. Na ningĩ akĩambwo mũtĩ igũrũ nĩ ũndũ witũ, hĩndĩ ya Pontio Pilato, akĩnyarirwo, agĩthikwo. Na mũthenya wa ĩtatũ akĩriũka a ta ũrĩa kwandĩkĩtwo maandĩko-inĩ. Akĩambata igũrũ, na aikaire guoko-inĩ kwa ũrĩo gwa Ithe. Na nĩagoka rĩngĩ na ũkumio, acirithie arĩa me muoyo na arĩa makuĩte, naguo ũthamaki wake ndũgathira. Na nĩnjĩtĩkitie Muoyo (Roho) Mũtheru, Mwathani, Mũheani wa muoyo, ũrĩa uumaga kũrĩ Ithe, na ũrĩa hamwe na Ithe na Mũriũ mainamagĩrĩrũo, magĩkumagio, na ũrĩa waaririe na tũnua twa Anabii. Na nĩnjĩtĩkitie Kanitha (Ekklesia) ĩmwe, theru, katholiki (ya thĩ oothe), na ya Atũmwo. Na nĩngumbũra ũbatithio ũmwe wa kweheria mehia. Na nĩnjetereire kũriũka kwa akuũ. Na muoyo ũrĩa ũgooka wa tene na tene. Amen.'}
+{'id_' : 'prayers_kik_KE_oak|SoulSaturday|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|StereosaiKyrios|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|Thymiama|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|TinTimioteran|text', 'text' : 'Kũrĩ wee mwĩhokeku gũkĩra Akerubi, na ũrĩa wĩna ũkumio mũnene ũtangĩgerekanio na wa Aserafi, ũrĩa we ũtarĩ na karema ka wĩhia, na ũrĩa waciarire Ngai Kiugo na ũirĩtu wake ndwathũkire, wee Mũciari wa Ngai (Theotokos) wa ma, nĩtwakũnenehia.'}
+{'id_' : 'prayers_kik_KE_oak|VasilefOuranie|text', 'text' : 'Mũthamaki wa matũ-ini, wee Mũhooreria (Paraklitos), Muoyo wa ũũma, ũrĩa wĩ kũndũ guothe na ũiyũragia indo ciothe, kĩgĩna kĩa maũndũ mega na mũheani wa muoyo, ũka ũikaranie hamwe na ithuĩ, na ũtũtherie kuuma karema-inĩ goothe ka wĩhia, na ũhonokie mĩoyo iitũ, wee Mwega.'}
+{'id_' : 'prayers_kik_KE_oak|trDiaTisTheotokou', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|fePresveiaisTisTheotokou', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|fbPresveiaisKyrieTisTheotokou', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|trPresveiaisTonAgion', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|fePresveiaisTonAgionKaiSosonMe', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|fbPresveiaisKyrieTonAgion', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|enarxis01', 'text' : 'Kũrathimwo nĩ Ngai witũ, hĩndĩ ciothe, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|enarxis02', 'text' : 'Kũrathimwo ni ũthamaki wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|enarxis03', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet00', 'text' : 'Rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet01', 'text' : 'Twĩna thayũ, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet02', 'text' : 'Nĩ ũndũ wa thayũ wa kuuma igũrũ na ũhonokio wa mĩoyo iitũ, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet03', 'text' : 'Nĩ ũndũ wa thayũ wa thĩ yoothe, na nĩ ũndũ wa wĩhandi mwega wa Makanitha matheru ma Ngai, na nĩ ũndũ wocokanĩrĩria wa andũ oothe, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet04', 'text' : 'Nĩ ũndũ wa nyũmba ĩno theru, na nĩ ũndũ wa arĩa matonyaga yo mena wĩtĩkio, gĩtĩyo na wĩtigĩri wa Ngai, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet04alt1|title', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet04alt1', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet04alt2|title', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet04alt2', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet05', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet06', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet06a', 'text' : 'Nĩ ũndũ wa'}
+{'id_' : 'prayers_kik_KE_oak|pet06b', 'text' : 'o na arathimithia na aramati aitũ wira-inĩ wa Kristo, na arĩa aamũre, na andũ oothe, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet07L', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet07S', 'text' : 'Nĩ ũndũ wa Bũrũri ũyũ witũ, na mũthamaki (rĩĩtwa) na atongoria aguo, na mbũtũ ciitũ cia ita, cia maĩ-inĩ, o na cia rĩera-inĩ, na cia thĩ nyũmũ, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet07Sa', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet08', 'text' : 'Nĩ ũndũ wa itũũra rĩrĩ, na matũũra marĩa mangĩ moothe, na mabũrũri moothe, na nĩ ũndũ wa arĩa metĩkĩtie matũũraga thĩ-inĩ wamo, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet08alt', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet09', 'text' : 'Nĩ ũndũ wa imera iria njega, na nĩ ũndũ wa bũthi na thayũ wa mahinda moothe, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet10', 'text' : 'Nĩ ũndũ wa arĩa maragerera thĩ nyũmũ kana maĩ-inĩ, kana rĩera-inĩ, na nĩ ũndũ wa arĩa arũaru, nĩ ũndũ wa arĩa marathĩnĩka, nĩ ũndũ wa arĩa matahĩtwo, na nĩ ũndũ wa kũhonokio kwao, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet11', 'text' : 'Nĩ ũndũ wa gũtũhonokia kuuma mathĩna-inĩ moothe, marakara, mogwati na mabata, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet12', 'text' : 'Tũteithie, tũhonokie, tũiguĩre tha na ũtũgitĩre ithuĩ, wee Ngai, kũhĩtũkĩra ũtũgĩ-inĩ waku.'}
+{'id_' : 'prayers_kik_KE_oak|pet13', 'text' : 'Tũririkane Mũciari wa Ngai (Theotokos), mũtheru mũrathime na mũkumie Mũirĩtu mũthingu na atũire e Mũtheru Maria, hamwe na Atheru oothe, rekei twĩrutĩre ithuĩ, o mũndũ na ũrĩa, na mĩoyo iitũ yoothe, kũrĩ Kristo Ngai witũ.'}
+{'id_' : 'prayers_kik_KE_oak|pet14', 'text' : 'Rĩngĩ na rĩngĩ thĩ-inĩ wa thayũ, rekei tũhoe Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet15', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet16', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet17', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet18', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet19', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet19a', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet20', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet21', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet21a', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet21b', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet21c', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet21d', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet21p', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet22', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet23', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet24', 'text' : 'Rekei tũrĩkie mahoya maitũ kũrĩ Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet24v', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet24m', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet25v', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet25m', 'text' : 'Nĩ ũndũ wa mũthenya ũyũ woothe ũtuĩke mwega, mũtheru, wĩ thayũ, na ũtarĩ na wĩhia, rekei tũũrie Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet26', 'text' : 'Nĩ ũndũ wa mũraika wa thayũ, mũtongoria mwĩtĩkia, na mũrangĩri wa mĩoyo iitũ, o na mĩĩrĩ iitũ, rekei tũũrie Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet27', 'text' : 'Nĩ ũndũ wa woheri na gũthengerio kwa mawĩhia na maũũru maitũ, rekei tũũrie Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet28', 'text' : 'Nĩ ũndũ wa indo ciothe iria njega, na ii na ũmithio harĩ mĩoyo-inĩ iitũ, na nĩ ũndũ wa thayũ wa thĩ yoothe, rekei tũũrie Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet29', 'text' : 'Na nĩguo tũhote kũrĩkia ihinda rĩrĩa rĩtigaru rĩa mĩoyo iitũ twĩna thayũ na wĩriro, rekei tũũrie Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet30', 'text' : 'Na nĩguo mĩtũũrĩre iitũ ya kũrigĩrĩa ĩkorũo ĩ ya ũkristiano, ĩtarĩ na ruo, ũcuuke na ĩĩna thayũ; na kwĩrigĩrĩria kwega mbere ya ũgwati wa cira ũrĩa ũgaikarĩrũo gĩtĩ nĩ Kristo, rekei tũũrie Mwathani'}
+{'id_' : 'prayers_kik_KE_oak|pet31', 'text' : 'Thayũ ũrogĩa na inyuĩ.'}
+{'id_' : 'prayers_kik_KE_oak|pet32', 'text' : 'Rekei tũinamie mĩtwe iitũ mbere ya Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|pet33', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet34', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet35', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet36', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|pet37', 'text' : 'Kĩrathimo na tha cia Mwathani ciũke igũrũ riitũ, kũhĩtũkĩra wega-inĩ mũtheru na uuma-andũ wake, hĩndĩ ciothe, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|petBap01', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petBap02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petBap03', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petBap04', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petBap05', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petBap06', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petBap07', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens01', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens03', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens04', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens05', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens06', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens07', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens08', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens09', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens10', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens11', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens12', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens13', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens14', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens15', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens16', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens17', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens18', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens19', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens20', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens21', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens22', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens23', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCatechumens24', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline01', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline03', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline04', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline05', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline06', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline07', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline08', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline09', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline10', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline11', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline12', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline13', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline14', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petCompline15', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petConsecration01', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petConsecration02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petFuneral01', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petFuneral02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petKneel01', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petKneel02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petKneel03', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petKneel04', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petKneel05', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petKneel06', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petKneel07', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petKneel08', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petSouls01', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petSouls02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petUnction01', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petUnction02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petUnction03', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater01', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater03', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater03alt', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater04', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater05', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater06', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater07', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater07alt', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater08', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater09', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater10', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater11', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater12', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater13', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater14', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater15', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWater16', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed01', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed03', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed04', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed05', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed06', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed07', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed08', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed09', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed10', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed11', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed12', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed13', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|petWed14', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|sup00', 'text' : 'Ũi Ngai, honokia andũ aku na ũrathime ũgai waku; ceerera thĩ yaku wĩ na tha na ũtugi; tũũgĩria rũhia rũa akristiano a Orthodox; na ũtũikũrũkĩrie utonga wa tha ciaku nyingĩ;'}
+{'id_' : 'prayers_kik_KE_oak|sup00a', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|sup01', 'text' : 'kũhĩtũkĩra mahoya-inĩ ma Mũciari wa Ngai witũ (Theotokos) ũrĩa mũtheru mũno na atũũire e mũtheru Maria;'}
+{'id_' : 'prayers_kik_KE_oak|sup02', 'text' : 'na nĩ ũndũ wa hinya wa Mũtharaba wa goro ũrĩa ũheanaga muoyo;'}
+{'id_' : 'prayers_kik_KE_oak|sup03', 'text' : 'kũhĩtũkĩra ũgitĩri-inĩ wa mahinya ma igũrũ marĩa matarĩ na mĩĩrĩ;'}
+{'id_' : 'prayers_kik_KE_oak|sup04', 'text' : 'kũhĩtũkĩra mathaithana-inĩ ma Mũnabii mũtĩĩe na mũkumie ũrĩa wokire mbere Johana Mũbatithania;'}
+{'id_' : 'prayers_kik_KE_oak|sup05', 'text' : 'na ma-Atũmwo atheru na akumie, arĩa me igweta;'}
+{'id_' : 'prayers_kik_KE_oak|sup06', 'text' : 'na ma-Maababa aitũ atheru, abicobu anene (Archbishops) na arutani a thĩ yoothe: Basilio Mũnene, Gregorio Mũrutani wa ũhoro wa Ngai, na Johana Chrysostomo (ũrĩa waaragia mĩario mĩega);'}
+{'id_' : 'prayers_kik_KE_oak|sup07', 'text' : 'Athanasio na Kirillo apatriaka a Alexandria;'}
+{'id_' : 'prayers_kik_KE_oak|sup08', 'text' : 'Nikola Mũmbicobu mũnene wa Mira ya Likia, na Spiridoni Mbicobu mũnene wa Trimitunda ya Kipuro, ariingi a ciama cia magegania;'}
+{'id_' : 'prayers_kik_KE_oak|sup09', 'text' : 'na ma-atheru anene na aira arĩa mooragirũo mena wĩtĩkio: George mũhotani, Demeterio ũrĩa mbĩrĩra yake yoimire mũtararĩko mwega, Theodoro wa Tironi na Theodoro mũnene wa mbũtũ, na Minaa mũriingi ciama,'}
+{'id_' : 'prayers_kik_KE_oak|sup10', 'text' : 'Haralambo,'}
+{'id_' : 'prayers_kik_KE_oak|sup11', 'text' : 'na Ebimia,'}
+{'id_' : 'prayers_kik_KE_oak|sup12', 'text' : 'na ma-Maababa aitũ atheru mena ũ-ngai;'}
+{'id_' : 'prayers_kik_KE_oak|sup13', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|sup14', 'text' : 'na ma-aciari atheru akũrũ a Ngai Joakim na Anna;'}
+{'id_' : 'prayers_kik_KE_oak|sup15', 'text' : 'na ma-atheru oothe;'}
+{'id_' : 'prayers_kik_KE_oak|sup99', 'text' : 'nĩtwagũthaitha, wee Mwathani wiki mũigua tha, ũtũthikĩrĩrie ithuĩ ehia arĩa tũrakũhoya na ũtũiguĩre tha.'}
+{'id_' : 'prayers_kik_KE_oak|res01', 'text' : 'Mwathani, igua tha.'}
+{'id_' : 'prayers_kik_KE_oak|res02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res03', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res04', 'text' : 'Amen.'}
+{'id_' : 'prayers_kik_KE_oak|res05', 'text' : 'O hamwe na muoyo waku.'}
+{'id_' : 'prayers_kik_KE_oak|res06', 'text' : 'Mwathani, igua tha. Mwathani, igua tha. Mwathani, igua tha.'}
+{'id_' : 'prayers_kik_KE_oak|res07', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res08', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res09', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res10', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res12', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res13', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res14', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res15', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res16', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res01p', 'text' : 'Mwathani, igua tha.'}
+{'id_' : 'prayers_kik_KE_oak|res02p', 'text' : 'Ĩtĩkĩra, ũi Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|res03p', 'text' : 'Kũrĩ wee, Mwathani.'}
+{'id_' : 'prayers_kik_KE_oak|res04p', 'text' : 'Amen.'}
+{'id_' : 'prayers_kik_KE_oak|res05p', 'text' : 'O hamwe na muoyo waku.'}
+{'id_' : 'prayers_kik_KE_oak|res06p', 'text' : 'Mwathani, igua tha. Mwathani, igua tha. Mwathani, igua tha.'}
+{'id_' : 'prayers_kik_KE_oak|res07p', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res08p', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res09p', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res10p', 'text' : 'Amen. Amen. Amen.'}
+{'id_' : 'prayers_kik_KE_oak|res12p', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res13p', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res14p', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res15p', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|res16p', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc01', 'text' : 'Nĩ ũndũ ũkumio wĩ kũrĩ Wee, na gũtĩyo, na kũgoocwo, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc01a', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc02', 'text' : 'Nĩ ũndũ ũthamaki ni waku, o na hinya, o na kũgoocwo, wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc03', 'text' : 'Tondũ wĩ Ngai mwega na muuma-andũ, nawe nĩtwakũhee ũkumio, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc04', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc05', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc05a', 'text' : 'Tondũ wee Ngai witũ wĩ mũtheru, na wee nĩtũgũkũhe ũkumio, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene,'}
+{'id_' : 'prayers_kik_KE_oak|exc05b', 'text' : 'Na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc06', 'text' : 'Tondũ nĩwe mũtheru, ũi Ngai witũ, na nĩũhurũkaga gatagatĩ-inĩ ka Atheru, na nĩtwaheana gũkumio, kũrĩ wee, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc07', 'text' : 'Kũhĩtũkĩra tha-inĩ na ũtugi na uuma-andũ wa Mũrũguo waku wa mũmwe, ũrĩa wee mũrathimaguo hamwe nake, na hamwe na Muoyo (Roho) Mũtheru mũno na mwega na mũheani wa muoyo, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc07a', 'text' : 'Kũhĩtũkĩra wega-inĩ na tha-inĩ na uuma-andũ, wa Mũrũguo waku wa mũmwe, ũrĩa wee mũrathimagũo hamwe nake, na hamwe na Muoyo (Roho) waku Mũtheru mũno, na mwega na mũheani wa muoyo, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc07b', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc07c', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc08', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc09', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc10', 'text' : 'Tondũ Ita rĩa hinya wa matu-inĩ nĩigũkũgooca wee Mwathani, na kũrĩ wee nĩtũgũkũhe ũkumio, kũrĩ Ithe, na Mũriũ na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc11', 'text' : 'Tondũ wĩ Ngai wĩ tha na muuma-andũ, na kũrĩ we nĩtũgũkũhe ũkomio, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc11a', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc12', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc13', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc14', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc15', 'text' : 'Rekei tũmũnenehia na nyĩmbo cia kũmũgatha Mũciari wa Ngai (Theotokos) na Nyina wa Utheri.'}
+{'id_' : 'prayers_kik_KE_oak|exc16', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc16a', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc17', 'text' : 'Ũũgĩ.'}
+{'id_' : 'prayers_kik_KE_oak|exc18', 'text' : 'Rũgamai, tũthikĩrĩrie.'}
+{'id_' : 'prayers_kik_KE_oak|exc19', 'text' : 'Rekei tũthikĩrĩrie.'}
+{'id_' : 'prayers_kik_KE_oak|exc20', 'text' : 'Tondũ hinya nĩ waku, na ũthamaki, na ũhoti, na ũkumio, wa Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc22', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc23', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc24', 'text' : 'Tondũ wee nĩwe mũtheria witũ, na kũrĩ wee nĩtũgũkũhe ũkumio, kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'prayers_kik_KE_oak|exc25', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc26', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc27', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc28', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|exc29', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|epi01a', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|epi01b', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|epi02', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|gos01', 'text' : 'Na nĩguo tũtũĩke agĩrĩru akuigua Ũhoro mwega (Evangelio), rekei tũhoe Mwathani Ngai witũ.'}
+{'id_' : 'prayers_kik_KE_oak|gos02', 'text' : 'Tũthikĩrĩrie ũhoro mwega wa Evangelio (Injiri) theru'}
+{'id_' : 'prayers_kik_KE_oak|gos03a', 'text' : 'Tũgũthoma Ũhoro mwega na mũtheru wandĩkĩtwo nĩ'}
+{'id_' : 'prayers_kik_KE_oak|gos03b', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|gos04', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_Angels|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_Angels|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_ApostlesMartyrs|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_ApostlesMartyrs|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_Baptist|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_Baptist|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_Cross|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_Cross|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_GreatMartyrs|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_GreatMartyrs|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_Hierarchs|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_Hierarchs|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_Nicholas|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_Nicholas|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_Panteleimon|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_Panteleimon|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_Righteous|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_Righteous|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_SoulSaturday|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_SoulSaturday|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_Theotokos|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_Theotokos|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_Trinity|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_Trinity|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verse_Unmercenaries|text', 'text' : ''}
+{'id_' : 'prayers_kik_KE_oak|verseP_Unmercenaries|text', 'text' : ''}

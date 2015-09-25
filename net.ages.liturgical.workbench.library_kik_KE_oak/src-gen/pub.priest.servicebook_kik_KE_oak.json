@@ -1,0 +1,318 @@
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|WhenHierarchical', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|WhenNotHierarchical', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|CensingAtEpistleReading', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|BlessingTheCenser', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|CensingAndBlessingReader', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|AlleluiaAndItsVerses', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|AlleluiaModes', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|DismissalSpecificFeast', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Start', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|LayingHandsPrayer1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|BreathesAndBlesses', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|FaceWestRenounce', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CandidateRenounce', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|PriestHaveYou1a', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CandidateEachTime1a', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|BreathUpon', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CandidateBlow3Times', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Allegiance1a', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CandidateResp1a', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|PriestHaveYou1b', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CandidateEachTime1b', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Believe', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CandidateResp', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CreedRecital', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Allegiance1b', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CandidateResp1b', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Bow', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CandidateBow', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|PriestResp', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|RecitePrayer', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|BeginsSacrament', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|ReadsPrayerSilently', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|RecitesLoudly', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|BlessesWater', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|BreathesUponWater', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|UndressChild', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|PourOliveOil', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CupHands', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|AnnointChild', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Nose', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Ears', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Mouth', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Chest', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Legs', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Feet', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Hands', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Back', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Immersion', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Immersion1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Immersion2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Immersion3', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|WhiteSheet', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Chrismation', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Tonsure', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|VestNeo', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|GarmentChant', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|WashHands', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Ablution', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|DriesFace', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|LayingHandsPrayer2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CensesRound', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|CommunionAndCross', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|Admonitions', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Baptism|KissHand', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|Vows', 'text' : 'Mbere ya Kigongona githeru, ni haigagwo metha iria iigagirirwo micumaa iiri, icuhi, thumbi (Cithondeketwo wega na mahua), ndibei na Ibuku ria Evangelio theru. Aria marahikania magoka makarugama mbere ya metha iyo mang'etheire Kigongona, muhikania ari mwena wa urio na muhiki mwena wa umotho, Murathimithia, ehumbite Rason, epitrahilion (stole), na phelonion (Githii), ni amanengeraga micumaa migwatie na akoria muhikania: " Ndungata ya Ngai (Riitwa), niwetikira kuoya mutumia uyu (Riitwa), atuike mutumia wa kihiko waku, umwende na umumenyerere, kinya gikuu gikamutigithania?". Agacooka akoria muhiki: "Ndungata ya Ngai (Riitwa), niwetikira kuoya muthuri uyu (Riitwa), atuike Muthuri waku wa kihiko, umwende na umumenyerere, kinya gikuu gikamutigithania?". Meetikira eeri akambiriria igongona:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|Lit01', 'text' : 'Murathimithia akambiriria mathaithana ma thayu'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|RingsGroom', 'text' : 'Murathimithia akoya mbete, agacirathimithia iguru ria Evangelio theru, akahutia thithi wa muhikania na thutha ucio akahutia wa muhiki, ageeka ruuri rwa Mutharaba hari o' eeri, akauga'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|RingsBride', 'text' : 'Agacooka ageka uguo hari muhiki'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|RingsOn', 'text' : 'Agacooka akaingiria mbete kiara-ini gia gatatu gia guoko kwa kwa urio, Arugamiriri ao magacicenjania ta uu: Akoya mbete ya muthuri na guoko kwa urio, na ya mutumia na guoko kwa umotho (atahingicithanitio moko). Agacooka akamahingicithania niguo ahutie kiara kia Muhikania na mbete ya Muhiki, na kiara kia muhiki akahutithia mbete ya Muhikania. Akahingicithania moko make uguo maita mangi meeri. Arugamiriri eeri marikia gwika uguo, makanengera Murathimithia mbete icio. Nake Murathimithia akanengera Muhikania mbete ya muhiki na akanengera Muhiki mbete ya Muhikania. Akameera mekirane mbete o mundu kiara kia ucio ungi. Agacooka handuini haria arugamaga na agathooma ihoya riri. '}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|Ps127|Ps128', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Rub|Pascha', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|Lit02', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|CrownsGroom', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|CrownsBride', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|CrownsOn', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|CrownsChange', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|CupChant', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|Roundtable', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|Prayer4Both', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Wed|RemoveCrowns', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Rub|Fun|ArrivalAtChurch', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Fun|TonePlagIV', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Fun|PriestCensing', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Fun|ReaderAndPeopleChant', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|Asterisks', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|enarxis|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|dismissal|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|readings|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|cup|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|crowns|take|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|bless|both|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|fun|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|fun|stasis01|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|protheseos|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|preliminaries|title', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|mercy', 'text' : 'Ngai, niguĩra tha, niĩ mũndũ mwĩhia.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|mercy2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|doxapatrikainyn', 'text' : 'Gũkumio kũrogĩa kũrĩ Ithe, na Mũriũ, na Muoyo (Roho) Mũtheru. Na rĩu na tene, na kinya tene na tene. Amen.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|tinahranton', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|tisefsplanknis', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|efsplankniaspigi', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|mnimidikaiou', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|kyrieexaposteilon', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|blesssticharion', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|agalliasetai', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|blessepitrachilion|p1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|estaidiakonos', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|blesszoni|p1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|blessrightcuff', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|blesscross', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|inmemory', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|pierce', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|cutleft', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|cuttop', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|cutbottom', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|removelamb', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|sacrifice', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|cutlamb', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|pierce2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|pierce3', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|holyunion', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|blessunion', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|anotherprosfora', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|rank1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|rank2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|altrank1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|altrank2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|rank3', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|rank4', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|rank5', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|rank6', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|rank7', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|rank8', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|rank9', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|particlebishop', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|remember', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|particlesfounders', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|particlesdeparted2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|particlepriest', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|prayerincense', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|makefirm', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|makemajestic', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|cover', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|coverchalice', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|shelter', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|coverboth', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|wellpleased', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|praygifts', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|protheseosprayer', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparation|commemmorationchrysostom', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|enteringbows', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|iconchrist', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|icontheotokos', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|iconforerunner', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|icontemple', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|aftervenerating', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|entrance', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|veneratealtar', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|boweast', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|deacontopriest', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|stichariondeacon', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|kisshand', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|sticharionpriest', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|wearsticharion', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|blessvestments', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|epitrachilion', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|orarion', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|zoni', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rightcuff', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|leftcuff', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|epigonation', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|felonion', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|cross', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|washhands', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|tableofpreparation', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|bowthriceprothesis', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|raiselance', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|crossprosfora', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|pierce', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|cutleft', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|cuttop', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|cutbottom', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|removelamb', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|invertlamb', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|cutlamb', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|revertlamb', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|pierce2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|mixchalice', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|blesswinewater', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|coverchalice', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|anotherprosfora', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|theotokosparticle', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|saintparticles', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rank1', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rank2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|altorder', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rank3', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rank4', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rank5', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rank6', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rank7', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rank8', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rank9', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|particlebishop', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|particlesliving', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|particlesfounders', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|particlesdeparted', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|particlesdeparted2', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|deaconcommemmorates', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|particlepriest', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|takecenser', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|blessincense', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|placestar', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|placeveil', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|coverchalice', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|coverboth', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|censegifts', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|wellpleasedresponse', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|bowgifts', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|dismissal', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|censeholytable', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|psalm50', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|censeall', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|startliturgy', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|bowthrice', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|kairos', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|blessdeacon', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|venerate', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|liturgybegins', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|psb|html|tab', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|psb|pdf|header', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|psb|pdf|cover', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|liturgy|title', 'text' : 'IGONGONA RĨTHERU'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|liturgycatechumens|title', 'text' : 'IGONGONA RĨA AKATEKUMENO'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|litanypeace|title', 'text' : 'MATHAITHANA MANENE (IRINIKA)'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|prayerantifon1|title', 'text' : 'MAHOYA MA ANTIBONO 1'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|antifon1|title', 'text' : 'ANTIBONO 1'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|prayerantifon2|title', 'text' : 'MAHOYA MA ANTIBONO 2'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|antifon2|title', 'text' : 'ANTIBONO 2'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|prayerantifon3|title', 'text' : 'MAHOYA MA ANTIBONO 3'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|antifon3|title', 'text' : 'ANTIBONO 3'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|smallentrance|title', 'text' : 'RĨINGĨRĨRO INYINYI'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|trisagionprayer|title', 'text' : 'RŨĨMBO RŨA NGAI MŨTHERU'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|readings|title', 'text' : 'MATHOMO'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|prokimenonmode', 'text' : 'Wĩrutĩri (prokimeno).'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|blessreader', 'text' : 'Mũnene, rathima mũthomi wa Ũhoro Mwega wa (Mathayo, Mariko, Luka, Johana), mũtũmwo mũtheru na mwandĩki wa Evangelio (Injiri).'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|blessreader2', 'text' : 'Kũhĩtũkĩra mahoya-inĩ ma mũtũmwo (rĩĩtwa), mũtheru na mũkumie na mwandĩki wa Evangelio, Ngai akũhe kiugo hamwe na hinya mũnene, nĩ getha Ũhoro mwega wa Mwathani witũ Jesu Kristo Mũriũ wa Ngai, ũrĩa mwende, ũhingio.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|readgospel', 'text' : 'Ndikoni athomaga ũhoro wa mũthenya. Arĩkia gũthoma,'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|greatlitany|title', 'text' : 'MAHOYA MA GŨTHAITHANA (EKTENIA)'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|thriceeach', 'text' : '(x 3)'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|pet19lash', 'text' : 'Makĩria nĩtwakũhoya nĩ ũndũ wa Mũmbicobu witũ mũnene (Archbishop) (rĩĩtwa).'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|pet21lash', 'text' : 'Makĩria nĩtwakũhoya nĩ ũndũ wa tha, muoyo, thayũ, ũgima, ũhonokio, ũgitĩri, woheri na ũthengia wa mawĩhia ma ndungata cia Ngai, akristiano ahooreri oothe a Orthodox, arĩa matũraga itũũra rĩrĩ na ahĩtũkĩri, akristiano a kanitha ĩno, na kĩama kĩayo na arĩa matungatagĩra nyũmba ĩno theru.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|pet22lash', 'text' : 'Makĩria nĩtwakũhoya nĩ ũndũ wa arathime, na aririkane arĩa maambĩrĩirie kanitha ĩno theru na oothe arĩa makomete, maithe maitũ a Orthodox, etĩkia arĩa matigĩte muoyo ũyũ mbere iitũ, arĩa me thĩ-inĩ wa Kristo, arĩa me haha na thĩ-inĩ wa thĩ yoothe.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|catechumens', 'text' : ''}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|prayercatechumens|title', 'text' : 'MAHOYA NĨ ŨNDŨ WA AKATEKUMENO (ARUTWO A KĨRĨRA)'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|liturgyfaithful|title', 'text' : 'IGONGONA RĨA ETĨKIA'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|prayer1faithful|title', 'text' : 'Mahoya ma mbere ma etĩkia'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|prayer2faithful|title', 'text' : 'Mahoya ma kerĩ ma etĩkia'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|greatentrance|title', 'text' : 'RĨINGĨRĨRO INENE RĨA MŨROMO MŨTHERU'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|cherubic', 'text' : 'Rũĩmbo rũa Akerubi'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|prayercherubic|title', 'text' : 'Mahoya ma rũĩmbo rũa Akerubi'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|cherubic2', 'text' : 'Nĩ getha twamũkĩre mũthamaki wa oothe, ũrĩa umagaragio nĩ mbũtũ cia araika matekuoneka. Alleluia. Alleluia. Alleluia.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|censeatcherubikon', 'text' : 'Thutha wa ihoya rĩrĩ mũrathimithia nĩahũraga ũbani (incense) metha-inĩ theru, na ikonostasi, na kũrĩ andũ, akigaga kahora rũĩmbo “Nĩtũrĩkĩtie kuona kũriũka gwa Kristo” na thaburi ya 51. Thutha wa kũhoya mbere ya metha theru na kũhũgũka kũrĩ andũ, na makoiga me hamwe na ndikoni:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|forgive', 'text' : 'Arĩ na ariũ akwa njoherai niĩ mũndũ mwĩhia.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|eparon', 'text' : 'Oya na igũrũ, Mũnene.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|psa133|v2|fullattribution', 'text' : '(Thaburi ya 133:2)'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|deaconright', 'text' : 'Marĩkia gũtonya thĩ-inĩ wa Metha Theru, ndikoni akoiga:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|holydiaconate', 'text' : 'Mwathani Ngai witũ aririkane ũtungati waku thĩ-inĩ wa ũthamaki wake, hĩndĩ ciothe, rĩu na tene, na kinya tene na tene.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|placegiftsaltar', 'text' : 'Aigĩrĩra iheo theru igũrũ rĩa Metha Theru nĩoigaga kahora:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|noblejoseph', 'text' : 'Jusufu wa gĩtĩyo, rĩrĩa aharũrũkirie mwĩrĩ waku ũrĩa ũtarĩ karema kuuma mũtharaba-inĩ, nĩaũthaire na taama mwega hamwe na maguta manungaga wega, na akĩũiga thĩ-inĩ wa mbĩrĩra njeru na akĩmĩhinga.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|psa50|v20|v21|fullattribution', 'text' : '(Thaburi ya 50:21)'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|rememberpriest', 'text' : 'Akera ndikoni:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|litanygifts|title', 'text' : 'GUTHAITHANA KWA IHEO THERU'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|kissofpeace', 'text' : 'Angĩkorũo kwĩna arathimithia makĩria ya ũmwe, oothe no makamumunya iheo theru o ũmwe thutha wa ũrĩa ũngĩ na makamumunyana o ene. Na mũrathamithia ũrĩa ũtongoretie igongona akoiga atĩrĩ:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|christmidst1', 'text' : 'Kristo e gatagatĩ-inĩ gaitũ.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|kissofpeace2', 'text' : 'Nake ũcio ũngĩ agacokia akoiga:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|christmidst2', 'text' : 'Nĩ ma e gatagatĩ-inĩ gaitũ, na egũtũũra ho tene na tene.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|creed|title', 'text' : 'WĨTĨKIO WA NIKEA'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|tasa', 'text' : 'Nĩtwakũhee indo ciaku, iria ciumĩte indo-inĩ ciaku, nĩ ũndũ wa woothe na nĩ ũndũ wa moothe.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|seimnumen', 'text' : 'Wee nĩtũrakũinĩra, nĩtũrakũrathima, nĩtũracokia ngaatho kũrĩ wee, ũi Mwathani, na nĩtũrahoya kũrĩ wee, ũi Ngai witũ.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|changebread', 'text' : 'Mũnene, rathima mũgate mũtheru.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|changewine', 'text' : 'Mũnene, rathima gĩkombe gĩtheru.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|servicebook|title', 'text' : 'IGONGONA RĨTHERU'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|preparationcommunion|title', 'text' : 'KWĨHARĨRIA KWAMŨKĨRA'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|alleluia', 'text' : 'Alleluia.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|communionhymnfullattribution', 'text' : '(Thaburi ya 150:1)'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|pliroma', 'text' : 'Ũiyũru wa gĩkombe, kĩa wĩtĩkio wa Muoyo (Roho) Mũtheru.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|zesis', 'text' : 'Ũrugarĩ wa wĩtĩkio, ũrĩa ũiyũirũo nĩ Muoyo (Roho) Mũtheru. Amen.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|prepcommunion|title', 'text' : 'MAHOYA MBERE YA KWAMŨKĨRA'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|vadizo', 'text' : 'Rora, nĩndĩroka kwamũkĩra na ngwatanĩro theru: Ũi wee Mũũmbi, ndũkanjine na mwaki ithaa rĩrĩ ndĩramũkĩra; tondũ kwĩ na mwaki wagũcina arĩa matagĩrĩre. No, wee Mwathani, thambia niĩ karema goothe ka mehia makwa.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|theurgon', 'text' : 'Wee mũndũ ũyũ, gĩa na wĩtigĩri ũkĩona Thakame ya kũheana ũ-ngai; tondũ nĩ mwaki wagũcina arĩa matagĩrĩire; nĩ Mwĩrĩ wa Ngai, na ũnduaga ta Ngai, na ũkandera; ũkahe ngoro yakwa ũ-ngai, na ũkarera meciiria na ũndũ ũtangĩmenyeka nĩ mũndũ.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|andagain', 'text' : 'Na rĩngĩ:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|wipehand', 'text' : 'Kwamũkĩra Mũgathe mũtheru. Thutha:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|deaconcommune', 'text' : 'Ndikoni, kũhĩrĩria.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|chaliceandcloth', 'text' : 'Akoya gĩkombe gĩtheru,'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|drinkthrice', 'text' : 'Kwamũkĩra agakunda maita matatũ, na akamumunya gĩkombe gĩtheru, na akoiga,'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|deaconcommune2', 'text' : 'Ndikoni, kũhĩrĩria rĩngĩ.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|approachagain', 'text' : 'Nĩndĩroka rĩngĩ;'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|etimetadidotai', 'text' : 'Nĩũraheo, (rĩĩtwa), wee ndikoni mwĩtigĩri, Thakame ya goro na theru mũno ya Mwathani na Ngai na Mũhonokia witũ Jesu Kristo, nĩ ũndũ wa kuoherũo kwa mehia maku, na nĩ ũndũ wa muoyo wa tene na tene.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|deaconcommune6', 'text' : 'Thutha woguo'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|distribution|title', 'text' : 'KWAMŨKĨRA KWA ETĨKIA'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|approach', 'text' : 'Mũromo mũtheru wa gatagatĩ ũkahingũrwo.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|distributionprayershort', 'text' : 'Ndungata ya Ngai (rĩĩtwa) nĩyamũkĩra Mwĩrĩ mũtheru na Thakame theru ya Mwathani, na Ngai, na Mũhonokia witũ Jesu Kristo, nĩ ũndũ wa kuoherũo mehia, na nĩ ũndũ wa muoyo wa tene na tene.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|censeexalt', 'text' : '(kũhoya kahora, kũhũra rũthuko iheo-inĩ theru maita matatũ:)'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|blessed', 'text' : 'akooya gĩkombe gĩtheru na igũrũ:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|blessed2', 'text' : 'akanĩrĩra:'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|thanksdismissal|title', 'text' : 'MATHAITHANA MA GŨCOKIA NGAATHO'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|crossantimensiongospel', 'text' : 'akanĩrĩra, na ageke rũrĩ rwa Mũtharaba na Kĩrĩkanĩro igũrũ wa antiminsio.'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|rubric|pliromanomou', 'text' : 'kũhoya kahora, mbere ya Gĩthĩnjĩro (Prothesi):'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|dis|oanastas', 'text' : 'Ũrĩa wariũkire akiuma kũrĩ akuũ,'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|dis|fathersmothers', 'text' : 'na ma-Ababa aitũ atheru mena ũ-ngai;'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|dis|ofsaint', 'text' : 'na ma-mũtheru'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|dis|oftemple', 'text' : '(wa Kanitha—rĩĩtwa);'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|dis|chrysostom', 'text' : 'na ma-baba mũtheru witũ Johana Krisostomu mũmbicobu mũnene (Archbishop) wa Konstantinopoli;'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|dis|ofday', 'text' : '(wa mũthenya—rĩĩtwa—rora Kalenda, mũtheru wa mũthenya ũyũ)'}
+{'id_' : 'pub|priest|servicebook_kik_KE_oak|li|dis|memory', 'text' : 'ũrĩa tũraririkana;'}
